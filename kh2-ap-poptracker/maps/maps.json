@@ -1,0 +1,128 @@
+[
+  {
+    "name": "worlds",
+    "img": "images/maps/worlds.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_lod_checks",
+    "img": "images/maps/map_lod_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_ag_checks",
+    "img": "images/maps/map_ag_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_dc_checks",
+    "img": "images/maps/map_dc_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_hundredacre_checks",
+    "img": "images/maps/map_hundredacre_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_oc_checks",
+    "img": "images/maps/map_oc_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_bc_checks",
+    "img": "images/maps/map_bc_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_sp_checks",
+    "img": "images/maps/map_sp_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_pr_checks",
+    "img": "images/maps/map_pr_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_ht_checks",
+    "img": "images/maps/map_ht_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_hb_checks",
+    "img": "images/maps/map_hb_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_pl_checks",
+    "img": "images/maps/map_pl_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_stt_checks",
+    "img": "images/maps/map_stt_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_tt_checks",
+    "img": "images/maps/map_tt_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_twtnw_checks",
+    "img": "images/maps/map_twtnw_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_soralevels",
+    "img": "images/maps/map_soralevels.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_form_checks",
+    "img": "images/maps/map_form_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_goa_checks",
+    "img": "images/maps/map_goa_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_keyblade_slots",
+    "img": "images/maps/map_keyblade_slots.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_atlantica_checks",
+    "img": "images/maps/map_atlantica_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  },
+  {
+    "name": "map_summon_checks",
+    "img": "images/maps/map_summon_checks.png",
+    "location_size": 18,
+    "location_border_thickness": 2
+  }
+]

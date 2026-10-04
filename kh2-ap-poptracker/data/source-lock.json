@@ -1,0 +1,12 @@
+{
+  "sources\\kh2\\__init__.py": "050f75a91fe8735d0b519045e8ad6cf5caaf2c48e7b685ebd53d3ca2e01b42a4",
+  "sources\\kh2\\Items.py": "5fea38566465ab0985caa72af0061cdcdb23a473b40e86c77bd1f5f216a0b9a1",
+  "sources\\kh2\\Locations.py": "74faf18f4e1994976621f4e18896039fe881d64db2a5403d33b690e074d82b56",
+  "sources\\kh2\\Names\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sources\\kh2\\Names\\ItemName.py": "f0b762c1844055b56dd09dd32fbb89f09c19e2bfcb5fd257deff5eb1ccb5a24e",
+  "sources\\kh2\\Names\\LocationName.py": "2b13f51e77e390db2fbf8b6b9293f174b2e841a98e5e510bdb83442871edc9f4",
+  "sources\\kh2\\Names\\RegionName.py": "7c02dc5b1132957286b4081ca0a5b3a81237d8589142a87927138f3e6a7bffdd",
+  "sources\\kh2\\Options.py": "a9839b9d497f3abb24561cda50682b394c007246f9ea3a561aec5878df967b34",
+  "sources\\kh2\\Regions.py": "f05a95c5c4b39df215179b709d90ecddc61fa5be41b654027b9979eb68288b7a",
+  "sources\\kh2\\Rules.py": "e9832f9c29fb8798649a03924b6147d80ae8a1da76f65eab6f39ec6509d43462"
+}

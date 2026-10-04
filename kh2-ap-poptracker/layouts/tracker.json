@@ -1,0 +1,1498 @@
+{
+  "tracker_default": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "tabbed",
+        "dock": "left",
+        "width": 435,
+        "tabs": [
+          {
+            "title": "Reports",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_0",
+                  "i_1",
+                  "i_2",
+                  "i_3",
+                  "i_4",
+                  "i_5",
+                  "i_6",
+                  "i_7",
+                  "i_8",
+                  "i_9"
+                ],
+                [
+                  "i_10",
+                  "i_11",
+                  "i_12"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Progression",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_13",
+                  "i_14",
+                  "i_15",
+                  "i_16",
+                  "i_17",
+                  "i_18",
+                  "i_19",
+                  "i_20",
+                  "i_21",
+                  "i_22"
+                ],
+                [
+                  "i_23",
+                  "i_24",
+                  "i_25",
+                  "i_26",
+                  "i_27",
+                  "i_28",
+                  "i_29",
+                  "i_30"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Forms",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_31",
+                  "i_32",
+                  "i_33",
+                  "i_34",
+                  "i_35",
+                  "i_36"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Magic",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_37",
+                  "i_38",
+                  "i_39",
+                  "i_40",
+                  "i_41",
+                  "i_42"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Summon",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_43",
+                  "i_44",
+                  "i_45",
+                  "i_46"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Armor",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_47",
+                  "i_48",
+                  "i_49",
+                  "i_50",
+                  "i_51",
+                  "i_52",
+                  "i_53",
+                  "i_54",
+                  "i_55",
+                  "i_56"
+                ],
+                [
+                  "i_57",
+                  "i_58",
+                  "i_59",
+                  "i_60",
+                  "i_61",
+                  "i_62",
+                  "i_63",
+                  "i_64",
+                  "i_65",
+                  "i_66"
+                ],
+                [
+                  "i_67",
+                  "i_68",
+                  "i_69",
+                  "i_70",
+                  "i_71",
+                  "i_72",
+                  "i_73",
+                  "i_74",
+                  "i_75",
+                  "i_76"
+                ],
+                [
+                  "i_77",
+                  "i_78",
+                  "i_79",
+                  "i_80"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Movement",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_81",
+                  "i_82",
+                  "i_83",
+                  "i_84",
+                  "i_85"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Staffs",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_86",
+                  "i_87",
+                  "i_88",
+                  "i_89",
+                  "i_90",
+                  "i_91",
+                  "i_92",
+                  "i_93",
+                  "i_94"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Shields",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_95",
+                  "i_96",
+                  "i_97",
+                  "i_98",
+                  "i_99",
+                  "i_100",
+                  "i_101",
+                  "i_102",
+                  "i_103"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Keyblade",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_104",
+                  "i_105",
+                  "i_106",
+                  "i_107",
+                  "i_108",
+                  "i_109",
+                  "i_110",
+                  "i_111",
+                  "i_112",
+                  "i_113"
+                ],
+                [
+                  "i_114",
+                  "i_115",
+                  "i_116",
+                  "i_117",
+                  "i_118",
+                  "i_119",
+                  "i_120",
+                  "i_121",
+                  "i_122",
+                  "i_123"
+                ],
+                [
+                  "i_124",
+                  "i_125",
+                  "i_126",
+                  "i_127"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Accessory",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_128",
+                  "i_129",
+                  "i_130",
+                  "i_131",
+                  "i_132",
+                  "i_133",
+                  "i_134",
+                  "i_135",
+                  "i_136",
+                  "i_137"
+                ],
+                [
+                  "i_138",
+                  "i_139",
+                  "i_140",
+                  "i_141",
+                  "i_142",
+                  "i_143",
+                  "i_144",
+                  "i_145",
+                  "i_146",
+                  "i_147"
+                ],
+                [
+                  "i_148",
+                  "i_149",
+                  "i_150",
+                  "i_151",
+                  "i_152",
+                  "i_153",
+                  "i_154",
+                  "i_155",
+                  "i_156",
+                  "i_157"
+                ],
+                [
+                  "i_158",
+                  "i_159",
+                  "i_160"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Stats",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_161",
+                  "i_162",
+                  "i_163",
+                  "i_164",
+                  "i_165",
+                  "i_166",
+                  "i_167",
+                  "i_168",
+                  "i_169",
+                  "i_170"
+                ],
+                [
+                  "i_171"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "SupportAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_172",
+                  "i_173",
+                  "i_174",
+                  "i_175",
+                  "i_176",
+                  "i_177",
+                  "i_178",
+                  "i_179",
+                  "i_180",
+                  "i_181"
+                ],
+                [
+                  "i_182",
+                  "i_183",
+                  "i_184",
+                  "i_185",
+                  "i_186",
+                  "i_187",
+                  "i_188",
+                  "i_189",
+                  "i_190",
+                  "i_191"
+                ],
+                [
+                  "i_192",
+                  "i_193",
+                  "i_194",
+                  "i_195",
+                  "i_196",
+                  "i_197",
+                  "i_198",
+                  "i_199",
+                  "i_200",
+                  "i_201"
+                ],
+                [
+                  "i_202",
+                  "i_203",
+                  "i_204",
+                  "i_205",
+                  "i_206",
+                  "i_207",
+                  "i_208"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "ActionAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_209",
+                  "i_210",
+                  "i_211",
+                  "i_212",
+                  "i_213",
+                  "i_214",
+                  "i_215",
+                  "i_216",
+                  "i_217",
+                  "i_218"
+                ],
+                [
+                  "i_219",
+                  "i_220",
+                  "i_221",
+                  "i_222",
+                  "i_223",
+                  "i_224",
+                  "i_225",
+                  "i_226",
+                  "i_227",
+                  "i_228"
+                ],
+                [
+                  "i_229",
+                  "i_230",
+                  "i_231",
+                  "i_232",
+                  "i_233"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Boosts",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_234",
+                  "i_235",
+                  "i_236",
+                  "i_237"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Wincon",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_238",
+                  "i_239"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "DonaldAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_240",
+                  "i_241",
+                  "i_242",
+                  "i_243",
+                  "i_244",
+                  "i_245",
+                  "i_246",
+                  "i_247",
+                  "i_248",
+                  "i_249"
+                ],
+                [
+                  "i_250",
+                  "i_251",
+                  "i_252",
+                  "i_253",
+                  "i_254",
+                  "i_255",
+                  "i_256",
+                  "i_257",
+                  "i_258",
+                  "i_259"
+                ],
+                [
+                  "i_260"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "GoofyAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_261",
+                  "i_262",
+                  "i_263",
+                  "i_264",
+                  "i_265",
+                  "i_266",
+                  "i_267",
+                  "i_268",
+                  "i_269",
+                  "i_270"
+                ],
+                [
+                  "i_271",
+                  "i_272",
+                  "i_273",
+                  "i_274",
+                  "i_275",
+                  "i_276",
+                  "i_277",
+                  "i_278",
+                  "i_279",
+                  "i_280"
+                ],
+                [
+                  "i_281",
+                  "i_282",
+                  "i_283",
+                  "i_284"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Consumable",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_285",
+                  "i_286",
+                  "i_287",
+                  "i_288",
+                  "i_289",
+                  "i_290",
+                  "i_291",
+                  "i_292"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "Worlds",
+            "content": {
+              "type": "map",
+              "maps": [
+                "worlds"
+              ]
+            }
+          },
+          {
+            "title": "Land of Dragons",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_lod_checks"
+              ]
+            }
+          },
+          {
+            "title": "Agrabah",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_ag_checks"
+              ]
+            }
+          },
+          {
+            "title": "Disney Castle & Timeless River",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_dc_checks"
+              ]
+            }
+          },
+          {
+            "title": "100 Acre Wood",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_hundredacre_checks"
+              ]
+            }
+          },
+          {
+            "title": "Olympus Coliseum",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_oc_checks"
+              ]
+            }
+          },
+          {
+            "title": "Beast's Castle",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_bc_checks"
+              ]
+            }
+          },
+          {
+            "title": "Space Paranoids",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_sp_checks"
+              ]
+            }
+          },
+          {
+            "title": "Port Royal",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_pr_checks"
+              ]
+            }
+          },
+          {
+            "title": "Halloween Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_ht_checks"
+              ]
+            }
+          },
+          {
+            "title": "Hollow Bastion & CoR",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_hb_checks"
+              ]
+            }
+          },
+          {
+            "title": "Pride Lands",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_pl_checks"
+              ]
+            }
+          },
+          {
+            "title": "Simulated Twilight Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_stt_checks"
+              ]
+            }
+          },
+          {
+            "title": "Twilight Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_tt_checks"
+              ]
+            }
+          },
+          {
+            "title": "The World That Never Was",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_twtnw_checks"
+              ]
+            }
+          },
+          {
+            "title": "Sora Levels",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_soralevels"
+              ]
+            }
+          },
+          {
+            "title": "Drive Forms",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_form_checks"
+              ]
+            }
+          },
+          {
+            "title": "Garden of Assemblage",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_goa_checks"
+              ]
+            }
+          },
+          {
+            "title": "Weapon Slots",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_keyblade_slots"
+              ]
+            }
+          },
+          {
+            "title": "Atlantica",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_atlantica_checks"
+              ]
+            }
+          },
+          {
+            "title": "Summons",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_summon_checks"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "tracker_broadcast": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "tabbed",
+        "dock": "left",
+        "width": 435,
+        "tabs": [
+          {
+            "title": "Reports",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_0",
+                  "i_1",
+                  "i_2",
+                  "i_3",
+                  "i_4",
+                  "i_5",
+                  "i_6",
+                  "i_7",
+                  "i_8",
+                  "i_9"
+                ],
+                [
+                  "i_10",
+                  "i_11",
+                  "i_12"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Progression",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_13",
+                  "i_14",
+                  "i_15",
+                  "i_16",
+                  "i_17",
+                  "i_18",
+                  "i_19",
+                  "i_20",
+                  "i_21",
+                  "i_22"
+                ],
+                [
+                  "i_23",
+                  "i_24",
+                  "i_25",
+                  "i_26",
+                  "i_27",
+                  "i_28",
+                  "i_29",
+                  "i_30"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Forms",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_31",
+                  "i_32",
+                  "i_33",
+                  "i_34",
+                  "i_35",
+                  "i_36"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Magic",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_37",
+                  "i_38",
+                  "i_39",
+                  "i_40",
+                  "i_41",
+                  "i_42"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Summon",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_43",
+                  "i_44",
+                  "i_45",
+                  "i_46"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Armor",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_47",
+                  "i_48",
+                  "i_49",
+                  "i_50",
+                  "i_51",
+                  "i_52",
+                  "i_53",
+                  "i_54",
+                  "i_55",
+                  "i_56"
+                ],
+                [
+                  "i_57",
+                  "i_58",
+                  "i_59",
+                  "i_60",
+                  "i_61",
+                  "i_62",
+                  "i_63",
+                  "i_64",
+                  "i_65",
+                  "i_66"
+                ],
+                [
+                  "i_67",
+                  "i_68",
+                  "i_69",
+                  "i_70",
+                  "i_71",
+                  "i_72",
+                  "i_73",
+                  "i_74",
+                  "i_75",
+                  "i_76"
+                ],
+                [
+                  "i_77",
+                  "i_78",
+                  "i_79",
+                  "i_80"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Movement",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_81",
+                  "i_82",
+                  "i_83",
+                  "i_84",
+                  "i_85"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Staffs",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_86",
+                  "i_87",
+                  "i_88",
+                  "i_89",
+                  "i_90",
+                  "i_91",
+                  "i_92",
+                  "i_93",
+                  "i_94"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Shields",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_95",
+                  "i_96",
+                  "i_97",
+                  "i_98",
+                  "i_99",
+                  "i_100",
+                  "i_101",
+                  "i_102",
+                  "i_103"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Keyblade",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_104",
+                  "i_105",
+                  "i_106",
+                  "i_107",
+                  "i_108",
+                  "i_109",
+                  "i_110",
+                  "i_111",
+                  "i_112",
+                  "i_113"
+                ],
+                [
+                  "i_114",
+                  "i_115",
+                  "i_116",
+                  "i_117",
+                  "i_118",
+                  "i_119",
+                  "i_120",
+                  "i_121",
+                  "i_122",
+                  "i_123"
+                ],
+                [
+                  "i_124",
+                  "i_125",
+                  "i_126",
+                  "i_127"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Accessory",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_128",
+                  "i_129",
+                  "i_130",
+                  "i_131",
+                  "i_132",
+                  "i_133",
+                  "i_134",
+                  "i_135",
+                  "i_136",
+                  "i_137"
+                ],
+                [
+                  "i_138",
+                  "i_139",
+                  "i_140",
+                  "i_141",
+                  "i_142",
+                  "i_143",
+                  "i_144",
+                  "i_145",
+                  "i_146",
+                  "i_147"
+                ],
+                [
+                  "i_148",
+                  "i_149",
+                  "i_150",
+                  "i_151",
+                  "i_152",
+                  "i_153",
+                  "i_154",
+                  "i_155",
+                  "i_156",
+                  "i_157"
+                ],
+                [
+                  "i_158",
+                  "i_159",
+                  "i_160"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Stats",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_161",
+                  "i_162",
+                  "i_163",
+                  "i_164",
+                  "i_165",
+                  "i_166",
+                  "i_167",
+                  "i_168",
+                  "i_169",
+                  "i_170"
+                ],
+                [
+                  "i_171"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "SupportAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_172",
+                  "i_173",
+                  "i_174",
+                  "i_175",
+                  "i_176",
+                  "i_177",
+                  "i_178",
+                  "i_179",
+                  "i_180",
+                  "i_181"
+                ],
+                [
+                  "i_182",
+                  "i_183",
+                  "i_184",
+                  "i_185",
+                  "i_186",
+                  "i_187",
+                  "i_188",
+                  "i_189",
+                  "i_190",
+                  "i_191"
+                ],
+                [
+                  "i_192",
+                  "i_193",
+                  "i_194",
+                  "i_195",
+                  "i_196",
+                  "i_197",
+                  "i_198",
+                  "i_199",
+                  "i_200",
+                  "i_201"
+                ],
+                [
+                  "i_202",
+                  "i_203",
+                  "i_204",
+                  "i_205",
+                  "i_206",
+                  "i_207",
+                  "i_208"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "ActionAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_209",
+                  "i_210",
+                  "i_211",
+                  "i_212",
+                  "i_213",
+                  "i_214",
+                  "i_215",
+                  "i_216",
+                  "i_217",
+                  "i_218"
+                ],
+                [
+                  "i_219",
+                  "i_220",
+                  "i_221",
+                  "i_222",
+                  "i_223",
+                  "i_224",
+                  "i_225",
+                  "i_226",
+                  "i_227",
+                  "i_228"
+                ],
+                [
+                  "i_229",
+                  "i_230",
+                  "i_231",
+                  "i_232",
+                  "i_233"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Boosts",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_234",
+                  "i_235",
+                  "i_236",
+                  "i_237"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Wincon",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_238",
+                  "i_239"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "DonaldAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_240",
+                  "i_241",
+                  "i_242",
+                  "i_243",
+                  "i_244",
+                  "i_245",
+                  "i_246",
+                  "i_247",
+                  "i_248",
+                  "i_249"
+                ],
+                [
+                  "i_250",
+                  "i_251",
+                  "i_252",
+                  "i_253",
+                  "i_254",
+                  "i_255",
+                  "i_256",
+                  "i_257",
+                  "i_258",
+                  "i_259"
+                ],
+                [
+                  "i_260"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "GoofyAbility",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_261",
+                  "i_262",
+                  "i_263",
+                  "i_264",
+                  "i_265",
+                  "i_266",
+                  "i_267",
+                  "i_268",
+                  "i_269",
+                  "i_270"
+                ],
+                [
+                  "i_271",
+                  "i_272",
+                  "i_273",
+                  "i_274",
+                  "i_275",
+                  "i_276",
+                  "i_277",
+                  "i_278",
+                  "i_279",
+                  "i_280"
+                ],
+                [
+                  "i_281",
+                  "i_282",
+                  "i_283",
+                  "i_284"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Consumable",
+            "content": {
+              "type": "itemgrid",
+              "item_size": 40,
+              "rows": [
+                [
+                  "i_285",
+                  "i_286",
+                  "i_287",
+                  "i_288",
+                  "i_289",
+                  "i_290",
+                  "i_291",
+                  "i_292"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "Worlds",
+            "content": {
+              "type": "map",
+              "maps": [
+                "worlds"
+              ]
+            }
+          },
+          {
+            "title": "Land of Dragons",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_lod_checks"
+              ]
+            }
+          },
+          {
+            "title": "Agrabah",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_ag_checks"
+              ]
+            }
+          },
+          {
+            "title": "Disney Castle & Timeless River",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_dc_checks"
+              ]
+            }
+          },
+          {
+            "title": "100 Acre Wood",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_hundredacre_checks"
+              ]
+            }
+          },
+          {
+            "title": "Olympus Coliseum",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_oc_checks"
+              ]
+            }
+          },
+          {
+            "title": "Beast's Castle",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_bc_checks"
+              ]
+            }
+          },
+          {
+            "title": "Space Paranoids",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_sp_checks"
+              ]
+            }
+          },
+          {
+            "title": "Port Royal",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_pr_checks"
+              ]
+            }
+          },
+          {
+            "title": "Halloween Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_ht_checks"
+              ]
+            }
+          },
+          {
+            "title": "Hollow Bastion & CoR",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_hb_checks"
+              ]
+            }
+          },
+          {
+            "title": "Pride Lands",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_pl_checks"
+              ]
+            }
+          },
+          {
+            "title": "Simulated Twilight Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_stt_checks"
+              ]
+            }
+          },
+          {
+            "title": "Twilight Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_tt_checks"
+              ]
+            }
+          },
+          {
+            "title": "The World That Never Was",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_twtnw_checks"
+              ]
+            }
+          },
+          {
+            "title": "Sora Levels",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_soralevels"
+              ]
+            }
+          },
+          {
+            "title": "Drive Forms",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_form_checks"
+              ]
+            }
+          },
+          {
+            "title": "Garden of Assemblage",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_goa_checks"
+              ]
+            }
+          },
+          {
+            "title": "Weapon Slots",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_keyblade_slots"
+              ]
+            }
+          },
+          {
+            "title": "Atlantica",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_atlantica_checks"
+              ]
+            }
+          },
+          {
+            "title": "Summons",
+            "content": {
+              "type": "map",
+              "maps": [
+                "map_summon_checks"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

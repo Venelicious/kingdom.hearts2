@@ -1,0 +1,2639 @@
+[
+  {
+    "name": "Secret Ansem's Report 1",
+    "type": "consumable",
+    "codes": "i_0",
+    "img": "images/items/i_0.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 2",
+    "type": "consumable",
+    "codes": "i_1",
+    "img": "images/items/i_1.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 3",
+    "type": "consumable",
+    "codes": "i_2",
+    "img": "images/items/i_2.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 4",
+    "type": "consumable",
+    "codes": "i_3",
+    "img": "images/items/i_3.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 5",
+    "type": "consumable",
+    "codes": "i_4",
+    "img": "images/items/i_4.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 6",
+    "type": "consumable",
+    "codes": "i_5",
+    "img": "images/items/i_5.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 7",
+    "type": "consumable",
+    "codes": "i_6",
+    "img": "images/items/i_6.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 8",
+    "type": "consumable",
+    "codes": "i_7",
+    "img": "images/items/i_7.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 9",
+    "type": "consumable",
+    "codes": "i_8",
+    "img": "images/items/i_8.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 10",
+    "type": "consumable",
+    "codes": "i_9",
+    "img": "images/items/i_9.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 11",
+    "type": "consumable",
+    "codes": "i_10",
+    "img": "images/items/i_10.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 12",
+    "type": "consumable",
+    "codes": "i_11",
+    "img": "images/items/i_11.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Secret Ansem's Report 13",
+    "type": "consumable",
+    "codes": "i_12",
+    "img": "images/items/i_12.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Proof of Connection",
+    "type": "consumable",
+    "codes": "i_13",
+    "img": "images/items/i_13.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Proof of Nonexistence",
+    "type": "consumable",
+    "codes": "i_14",
+    "img": "images/items/i_14.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Proof of Peace",
+    "type": "consumable",
+    "codes": "i_15",
+    "img": "images/items/i_15.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Promise Charm",
+    "type": "consumable",
+    "codes": "i_16",
+    "img": "images/items/i_16.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Namine Sketches",
+    "type": "consumable",
+    "codes": "i_17",
+    "img": "images/items/i_17.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Disney Castle Key",
+    "type": "consumable",
+    "codes": "i_18",
+    "img": "images/items/i_18.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Battlefields of War",
+    "type": "consumable",
+    "codes": "i_19",
+    "img": "images/items/i_19.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Sword of the Ancestor",
+    "type": "consumable",
+    "codes": "i_20",
+    "img": "images/items/i_20.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Beast's Claw",
+    "type": "consumable",
+    "codes": "i_21",
+    "img": "images/items/i_21.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Bone Fist",
+    "type": "consumable",
+    "codes": "i_22",
+    "img": "images/items/i_22.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Proud Fang",
+    "type": "consumable",
+    "codes": "i_23",
+    "img": "images/items/i_23.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Skill and Crossbones",
+    "type": "consumable",
+    "codes": "i_24",
+    "img": "images/items/i_24.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Scimitar",
+    "type": "consumable",
+    "codes": "i_25",
+    "img": "images/items/i_25.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Membership Card",
+    "type": "consumable",
+    "codes": "i_26",
+    "img": "images/items/i_26.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Ice Cream",
+    "type": "consumable",
+    "codes": "i_27",
+    "img": "images/items/i_27.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Way to the Dawn",
+    "type": "consumable",
+    "codes": "i_28",
+    "img": "images/items/i_28.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Identity Disk",
+    "type": "consumable",
+    "codes": "i_29",
+    "img": "images/items/i_29.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Torn Page",
+    "type": "consumable",
+    "codes": "i_30",
+    "img": "images/items/i_30.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Valor Form",
+    "type": "consumable",
+    "codes": "i_31",
+    "img": "images/items/i_31.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Wisdom Form",
+    "type": "consumable",
+    "codes": "i_32",
+    "img": "images/items/i_32.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Limit Form",
+    "type": "consumable",
+    "codes": "i_33",
+    "img": "images/items/i_33.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Master Form",
+    "type": "consumable",
+    "codes": "i_34",
+    "img": "images/items/i_34.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Final Form",
+    "type": "consumable",
+    "codes": "i_35",
+    "img": "images/items/i_35.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Anti Form",
+    "type": "consumable",
+    "codes": "i_36",
+    "img": "images/items/i_36.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Fire Element",
+    "type": "consumable",
+    "codes": "i_37",
+    "img": "images/items/i_37.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Blizzard Element",
+    "type": "consumable",
+    "codes": "i_38",
+    "img": "images/items/i_38.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Thunder Element",
+    "type": "consumable",
+    "codes": "i_39",
+    "img": "images/items/i_39.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Cure Element",
+    "type": "consumable",
+    "codes": "i_40",
+    "img": "images/items/i_40.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Magnet Element",
+    "type": "consumable",
+    "codes": "i_41",
+    "img": "images/items/i_41.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Reflect Element",
+    "type": "consumable",
+    "codes": "i_42",
+    "img": "images/items/i_42.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Genie",
+    "type": "consumable",
+    "codes": "i_43",
+    "img": "images/items/i_43.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Peter Pan",
+    "type": "consumable",
+    "codes": "i_44",
+    "img": "images/items/i_44.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Stitch",
+    "type": "consumable",
+    "codes": "i_45",
+    "img": "images/items/i_45.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Chicken Little",
+    "type": "consumable",
+    "codes": "i_46",
+    "img": "images/items/i_46.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Elven Bandana",
+    "type": "consumable",
+    "codes": "i_47",
+    "img": "images/items/i_47.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Divine Bandana",
+    "type": "consumable",
+    "codes": "i_48",
+    "img": "images/items/i_48.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Protect Belt",
+    "type": "consumable",
+    "codes": "i_49",
+    "img": "images/items/i_49.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Gaia Belt",
+    "type": "consumable",
+    "codes": "i_50",
+    "img": "images/items/i_50.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Power Band",
+    "type": "consumable",
+    "codes": "i_51",
+    "img": "images/items/i_51.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Buster Band",
+    "type": "consumable",
+    "codes": "i_52",
+    "img": "images/items/i_52.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Cosmic Belt",
+    "type": "consumable",
+    "codes": "i_53",
+    "img": "images/items/i_53.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Fire Bangle",
+    "type": "consumable",
+    "codes": "i_54",
+    "img": "images/items/i_54.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Fira Bangle",
+    "type": "consumable",
+    "codes": "i_55",
+    "img": "images/items/i_55.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Firaga Bangle",
+    "type": "consumable",
+    "codes": "i_56",
+    "img": "images/items/i_56.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Firagun Bangle",
+    "type": "consumable",
+    "codes": "i_57",
+    "img": "images/items/i_57.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Blizzard Armlet",
+    "type": "consumable",
+    "codes": "i_58",
+    "img": "images/items/i_58.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Blizzara Armlet",
+    "type": "consumable",
+    "codes": "i_59",
+    "img": "images/items/i_59.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Blizzaga Armlet",
+    "type": "consumable",
+    "codes": "i_60",
+    "img": "images/items/i_60.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Blizzagun Armlet",
+    "type": "consumable",
+    "codes": "i_61",
+    "img": "images/items/i_61.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Thunder Trinket",
+    "type": "consumable",
+    "codes": "i_62",
+    "img": "images/items/i_62.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Thundara Trinket",
+    "type": "consumable",
+    "codes": "i_63",
+    "img": "images/items/i_63.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Thundaga Trinket",
+    "type": "consumable",
+    "codes": "i_64",
+    "img": "images/items/i_64.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Thundagun Trinket",
+    "type": "consumable",
+    "codes": "i_65",
+    "img": "images/items/i_65.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Shock Charm",
+    "type": "consumable",
+    "codes": "i_66",
+    "img": "images/items/i_66.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Shock Charm+",
+    "type": "consumable",
+    "codes": "i_67",
+    "img": "images/items/i_67.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Shadow Anklet",
+    "type": "consumable",
+    "codes": "i_68",
+    "img": "images/items/i_68.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Dark Anklet",
+    "type": "consumable",
+    "codes": "i_69",
+    "img": "images/items/i_69.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Midnight Anklet",
+    "type": "consumable",
+    "codes": "i_70",
+    "img": "images/items/i_70.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Chaos Anklet",
+    "type": "consumable",
+    "codes": "i_71",
+    "img": "images/items/i_71.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Champion Belt",
+    "type": "consumable",
+    "codes": "i_72",
+    "img": "images/items/i_72.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Abas Chain",
+    "type": "consumable",
+    "codes": "i_73",
+    "img": "images/items/i_73.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aegis Chain",
+    "type": "consumable",
+    "codes": "i_74",
+    "img": "images/items/i_74.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Acrisius",
+    "type": "consumable",
+    "codes": "i_75",
+    "img": "images/items/i_75.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Acrisius+",
+    "type": "consumable",
+    "codes": "i_76",
+    "img": "images/items/i_76.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Cosmic Chain",
+    "type": "consumable",
+    "codes": "i_77",
+    "img": "images/items/i_77.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Petite Ribbon",
+    "type": "consumable",
+    "codes": "i_78",
+    "img": "images/items/i_78.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Ribbon",
+    "type": "consumable",
+    "codes": "i_79",
+    "img": "images/items/i_79.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Grand Ribbon",
+    "type": "consumable",
+    "codes": "i_80",
+    "img": "images/items/i_80.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "High Jump",
+    "type": "consumable",
+    "codes": "i_81",
+    "img": "images/items/i_81.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Quick Run",
+    "type": "consumable",
+    "codes": "i_82",
+    "img": "images/items/i_82.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Dodge Roll",
+    "type": "consumable",
+    "codes": "i_83",
+    "img": "images/items/i_83.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aerial Dodge",
+    "type": "consumable",
+    "codes": "i_84",
+    "img": "images/items/i_84.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Glide",
+    "type": "consumable",
+    "codes": "i_85",
+    "img": "images/items/i_85.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Centurion+",
+    "type": "consumable",
+    "codes": "i_86",
+    "img": "images/items/i_86.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Meteor Staff",
+    "type": "consumable",
+    "codes": "i_87",
+    "img": "images/items/i_87.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Nobody Lance",
+    "type": "consumable",
+    "codes": "i_88",
+    "img": "images/items/i_88.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Precious Mushroom",
+    "type": "consumable",
+    "codes": "i_89",
+    "img": "images/items/i_89.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Precious Mushroom+",
+    "type": "consumable",
+    "codes": "i_90",
+    "img": "images/items/i_90.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Premium Mushroom",
+    "type": "consumable",
+    "codes": "i_91",
+    "img": "images/items/i_91.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Rising Dragon",
+    "type": "consumable",
+    "codes": "i_92",
+    "img": "images/items/i_92.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Save The Queen+",
+    "type": "consumable",
+    "codes": "i_93",
+    "img": "images/items/i_93.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Shaman's Relic",
+    "type": "consumable",
+    "codes": "i_94",
+    "img": "images/items/i_94.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Akashic Record",
+    "type": "consumable",
+    "codes": "i_95",
+    "img": "images/items/i_95.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Frozen Pride+",
+    "type": "consumable",
+    "codes": "i_96",
+    "img": "images/items/i_96.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Genji Shield",
+    "type": "consumable",
+    "codes": "i_97",
+    "img": "images/items/i_97.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Majestic Mushroom",
+    "type": "consumable",
+    "codes": "i_98",
+    "img": "images/items/i_98.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Majestic Mushroom+",
+    "type": "consumable",
+    "codes": "i_99",
+    "img": "images/items/i_99.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Nobody Guard",
+    "type": "consumable",
+    "codes": "i_100",
+    "img": "images/items/i_100.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Ogre Shield",
+    "type": "consumable",
+    "codes": "i_101",
+    "img": "images/items/i_101.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Save The King+",
+    "type": "consumable",
+    "codes": "i_102",
+    "img": "images/items/i_102.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Ultimate Mushroom",
+    "type": "consumable",
+    "codes": "i_103",
+    "img": "images/items/i_103.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Oathkeeper",
+    "type": "consumable",
+    "codes": "i_104",
+    "img": "images/items/i_104.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Oblivion",
+    "type": "consumable",
+    "codes": "i_105",
+    "img": "images/items/i_105.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Star Seeker",
+    "type": "consumable",
+    "codes": "i_106",
+    "img": "images/items/i_106.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Hidden Dragon",
+    "type": "consumable",
+    "codes": "i_107",
+    "img": "images/items/i_107.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Hero's Crest",
+    "type": "consumable",
+    "codes": "i_108",
+    "img": "images/items/i_108.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Monochrome",
+    "type": "consumable",
+    "codes": "i_109",
+    "img": "images/items/i_109.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Follow the Wind",
+    "type": "consumable",
+    "codes": "i_110",
+    "img": "images/items/i_110.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Circle of Life",
+    "type": "consumable",
+    "codes": "i_111",
+    "img": "images/items/i_111.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Photon Debugger",
+    "type": "consumable",
+    "codes": "i_112",
+    "img": "images/items/i_112.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Gull Wing",
+    "type": "consumable",
+    "codes": "i_113",
+    "img": "images/items/i_113.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Rumbling Rose",
+    "type": "consumable",
+    "codes": "i_114",
+    "img": "images/items/i_114.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Guardian Soul",
+    "type": "consumable",
+    "codes": "i_115",
+    "img": "images/items/i_115.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Wishing Lamp",
+    "type": "consumable",
+    "codes": "i_116",
+    "img": "images/items/i_116.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Decisive Pumpkin",
+    "type": "consumable",
+    "codes": "i_117",
+    "img": "images/items/i_117.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Sleeping Lion",
+    "type": "consumable",
+    "codes": "i_118",
+    "img": "images/items/i_118.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Sweet Memories",
+    "type": "consumable",
+    "codes": "i_119",
+    "img": "images/items/i_119.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Mysterious Abyss",
+    "type": "consumable",
+    "codes": "i_120",
+    "img": "images/items/i_120.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Two Become One",
+    "type": "consumable",
+    "codes": "i_121",
+    "img": "images/items/i_121.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Fatal Crest",
+    "type": "consumable",
+    "codes": "i_122",
+    "img": "images/items/i_122.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Bond of Flame",
+    "type": "consumable",
+    "codes": "i_123",
+    "img": "images/items/i_123.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Fenrir",
+    "type": "consumable",
+    "codes": "i_124",
+    "img": "images/items/i_124.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Ultima Weapon",
+    "type": "consumable",
+    "codes": "i_125",
+    "img": "images/items/i_125.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Winner's Proof",
+    "type": "consumable",
+    "codes": "i_126",
+    "img": "images/items/i_126.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Pureblood",
+    "type": "consumable",
+    "codes": "i_127",
+    "img": "images/items/i_127.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Ability Ring",
+    "type": "consumable",
+    "codes": "i_128",
+    "img": "images/items/i_128.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Engineer's Ring",
+    "type": "consumable",
+    "codes": "i_129",
+    "img": "images/items/i_129.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Technician's Ring",
+    "type": "consumable",
+    "codes": "i_130",
+    "img": "images/items/i_130.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Skill Ring",
+    "type": "consumable",
+    "codes": "i_131",
+    "img": "images/items/i_131.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Skillful Ring",
+    "type": "consumable",
+    "codes": "i_132",
+    "img": "images/items/i_132.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Expert's Ring",
+    "type": "consumable",
+    "codes": "i_133",
+    "img": "images/items/i_133.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Master's Ring",
+    "type": "consumable",
+    "codes": "i_134",
+    "img": "images/items/i_134.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Cosmic Ring",
+    "type": "consumable",
+    "codes": "i_135",
+    "img": "images/items/i_135.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Executive's Ring",
+    "type": "consumable",
+    "codes": "i_136",
+    "img": "images/items/i_136.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Sardonyx Ring",
+    "type": "consumable",
+    "codes": "i_137",
+    "img": "images/items/i_137.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Tourmaline Ring",
+    "type": "consumable",
+    "codes": "i_138",
+    "img": "images/items/i_138.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aquamarine Ring",
+    "type": "consumable",
+    "codes": "i_139",
+    "img": "images/items/i_139.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Garnet Ring",
+    "type": "consumable",
+    "codes": "i_140",
+    "img": "images/items/i_140.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Diamond Ring",
+    "type": "consumable",
+    "codes": "i_141",
+    "img": "images/items/i_141.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Silver Ring",
+    "type": "consumable",
+    "codes": "i_142",
+    "img": "images/items/i_142.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Gold Ring",
+    "type": "consumable",
+    "codes": "i_143",
+    "img": "images/items/i_143.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Platinum Ring",
+    "type": "consumable",
+    "codes": "i_144",
+    "img": "images/items/i_144.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Mythril Ring",
+    "type": "consumable",
+    "codes": "i_145",
+    "img": "images/items/i_145.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Orichalcum Ring",
+    "type": "consumable",
+    "codes": "i_146",
+    "img": "images/items/i_146.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Soldier Earring",
+    "type": "consumable",
+    "codes": "i_147",
+    "img": "images/items/i_147.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Fencer Earring",
+    "type": "consumable",
+    "codes": "i_148",
+    "img": "images/items/i_148.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Mage Earring",
+    "type": "consumable",
+    "codes": "i_149",
+    "img": "images/items/i_149.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Slayer Earring",
+    "type": "consumable",
+    "codes": "i_150",
+    "img": "images/items/i_150.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Medal",
+    "type": "consumable",
+    "codes": "i_151",
+    "img": "images/items/i_151.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Moon Amulet",
+    "type": "consumable",
+    "codes": "i_152",
+    "img": "images/items/i_152.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Star Charm",
+    "type": "consumable",
+    "codes": "i_153",
+    "img": "images/items/i_153.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Cosmic Arts",
+    "type": "consumable",
+    "codes": "i_154",
+    "img": "images/items/i_154.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Shadow Archive",
+    "type": "consumable",
+    "codes": "i_155",
+    "img": "images/items/i_155.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Shadow Archive+",
+    "type": "consumable",
+    "codes": "i_156",
+    "img": "images/items/i_156.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Full Bloom",
+    "type": "consumable",
+    "codes": "i_157",
+    "img": "images/items/i_157.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Full Bloom+",
+    "type": "consumable",
+    "codes": "i_158",
+    "img": "images/items/i_158.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Draw Ring",
+    "type": "consumable",
+    "codes": "i_159",
+    "img": "images/items/i_159.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Lucky Ring",
+    "type": "consumable",
+    "codes": "i_160",
+    "img": "images/items/i_160.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Mickey Munny Pouch",
+    "type": "consumable",
+    "codes": "i_161",
+    "img": "images/items/i_161.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Olette Munny Pouch",
+    "type": "consumable",
+    "codes": "i_162",
+    "img": "images/items/i_162.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Hades Cup Trophy",
+    "type": "consumable",
+    "codes": "i_163",
+    "img": "images/items/i_163.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Unknown Disk",
+    "type": "consumable",
+    "codes": "i_164",
+    "img": "images/items/i_164.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Olympus Stone",
+    "type": "consumable",
+    "codes": "i_165",
+    "img": "images/items/i_165.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Max HP Up",
+    "type": "consumable",
+    "codes": "i_166",
+    "img": "images/items/i_166.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Max MP Up",
+    "type": "consumable",
+    "codes": "i_167",
+    "img": "images/items/i_167.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Drive Gauge Up",
+    "type": "consumable",
+    "codes": "i_168",
+    "img": "images/items/i_168.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Armor Slot Up",
+    "type": "consumable",
+    "codes": "i_169",
+    "img": "images/items/i_169.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Accessory Slot Up",
+    "type": "consumable",
+    "codes": "i_170",
+    "img": "images/items/i_170.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Item Slot Up",
+    "type": "consumable",
+    "codes": "i_171",
+    "img": "images/items/i_171.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Scan",
+    "type": "consumable",
+    "codes": "i_172",
+    "img": "images/items/i_172.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aerial Recovery",
+    "type": "consumable",
+    "codes": "i_173",
+    "img": "images/items/i_173.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Combo Master",
+    "type": "consumable",
+    "codes": "i_174",
+    "img": "images/items/i_174.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Combo Plus",
+    "type": "consumable",
+    "codes": "i_175",
+    "img": "images/items/i_175.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Air Combo Plus",
+    "type": "consumable",
+    "codes": "i_176",
+    "img": "images/items/i_176.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Combo Boost",
+    "type": "consumable",
+    "codes": "i_177",
+    "img": "images/items/i_177.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Air Combo Boost",
+    "type": "consumable",
+    "codes": "i_178",
+    "img": "images/items/i_178.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Reaction Boost",
+    "type": "consumable",
+    "codes": "i_179",
+    "img": "images/items/i_179.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Finishing Plus",
+    "type": "consumable",
+    "codes": "i_180",
+    "img": "images/items/i_180.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Negative Combo",
+    "type": "consumable",
+    "codes": "i_181",
+    "img": "images/items/i_181.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Berserk Charge",
+    "type": "consumable",
+    "codes": "i_182",
+    "img": "images/items/i_182.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Damage Drive",
+    "type": "consumable",
+    "codes": "i_183",
+    "img": "images/items/i_183.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Drive Boost",
+    "type": "consumable",
+    "codes": "i_184",
+    "img": "images/items/i_184.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Form Boost",
+    "type": "consumable",
+    "codes": "i_185",
+    "img": "images/items/i_185.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Summon Boost",
+    "type": "consumable",
+    "codes": "i_186",
+    "img": "images/items/i_186.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Experience Boost",
+    "type": "consumable",
+    "codes": "i_187",
+    "img": "images/items/i_187.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Draw",
+    "type": "consumable",
+    "codes": "i_188",
+    "img": "images/items/i_188.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Jackpot",
+    "type": "consumable",
+    "codes": "i_189",
+    "img": "images/items/i_189.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Lucky Lucky",
+    "type": "consumable",
+    "codes": "i_190",
+    "img": "images/items/i_190.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Drive Converter",
+    "type": "consumable",
+    "codes": "i_191",
+    "img": "images/items/i_191.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Fire Boost",
+    "type": "consumable",
+    "codes": "i_192",
+    "img": "images/items/i_192.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Blizzard Boost",
+    "type": "consumable",
+    "codes": "i_193",
+    "img": "images/items/i_193.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Thunder Boost",
+    "type": "consumable",
+    "codes": "i_194",
+    "img": "images/items/i_194.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Item Boost",
+    "type": "consumable",
+    "codes": "i_195",
+    "img": "images/items/i_195.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "MP Rage",
+    "type": "consumable",
+    "codes": "i_196",
+    "img": "images/items/i_196.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "MP Haste",
+    "type": "consumable",
+    "codes": "i_197",
+    "img": "images/items/i_197.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "MP Hastera",
+    "type": "consumable",
+    "codes": "i_198",
+    "img": "images/items/i_198.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "MP Hastega",
+    "type": "consumable",
+    "codes": "i_199",
+    "img": "images/items/i_199.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Defender",
+    "type": "consumable",
+    "codes": "i_200",
+    "img": "images/items/i_200.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Damage Control",
+    "type": "consumable",
+    "codes": "i_201",
+    "img": "images/items/i_201.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "No Experience",
+    "type": "consumable",
+    "codes": "i_202",
+    "img": "images/items/i_202.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Light & Darkness",
+    "type": "consumable",
+    "codes": "i_203",
+    "img": "images/items/i_203.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Magic Lock-On",
+    "type": "consumable",
+    "codes": "i_204",
+    "img": "images/items/i_204.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Leaf Bracer",
+    "type": "consumable",
+    "codes": "i_205",
+    "img": "images/items/i_205.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Combination Boost",
+    "type": "consumable",
+    "codes": "i_206",
+    "img": "images/items/i_206.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Once More",
+    "type": "consumable",
+    "codes": "i_207",
+    "img": "images/items/i_207.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Second Chance",
+    "type": "consumable",
+    "codes": "i_208",
+    "img": "images/items/i_208.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Guard",
+    "type": "consumable",
+    "codes": "i_209",
+    "img": "images/items/i_209.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Upper Slash",
+    "type": "consumable",
+    "codes": "i_210",
+    "img": "images/items/i_210.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Horizontal Slash",
+    "type": "consumable",
+    "codes": "i_211",
+    "img": "images/items/i_211.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Finishing Leap",
+    "type": "consumable",
+    "codes": "i_212",
+    "img": "images/items/i_212.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Retaliating Slash",
+    "type": "consumable",
+    "codes": "i_213",
+    "img": "images/items/i_213.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Slapshot",
+    "type": "consumable",
+    "codes": "i_214",
+    "img": "images/items/i_214.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Dodge Slash",
+    "type": "consumable",
+    "codes": "i_215",
+    "img": "images/items/i_215.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Flash Step",
+    "type": "consumable",
+    "codes": "i_216",
+    "img": "images/items/i_216.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Slide Dash",
+    "type": "consumable",
+    "codes": "i_217",
+    "img": "images/items/i_217.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Vicinity Break",
+    "type": "consumable",
+    "codes": "i_218",
+    "img": "images/items/i_218.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Guard Break",
+    "type": "consumable",
+    "codes": "i_219",
+    "img": "images/items/i_219.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Explosion",
+    "type": "consumable",
+    "codes": "i_220",
+    "img": "images/items/i_220.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aerial Sweep",
+    "type": "consumable",
+    "codes": "i_221",
+    "img": "images/items/i_221.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aerial Dive",
+    "type": "consumable",
+    "codes": "i_222",
+    "img": "images/items/i_222.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aerial Spiral",
+    "type": "consumable",
+    "codes": "i_223",
+    "img": "images/items/i_223.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Aerial Finish",
+    "type": "consumable",
+    "codes": "i_224",
+    "img": "images/items/i_224.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Magnet Burst",
+    "type": "consumable",
+    "codes": "i_225",
+    "img": "images/items/i_225.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Counterguard",
+    "type": "consumable",
+    "codes": "i_226",
+    "img": "images/items/i_226.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Auto Valor",
+    "type": "consumable",
+    "codes": "i_227",
+    "img": "images/items/i_227.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Auto Wisdom",
+    "type": "consumable",
+    "codes": "i_228",
+    "img": "images/items/i_228.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Auto Limit",
+    "type": "consumable",
+    "codes": "i_229",
+    "img": "images/items/i_229.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Auto Master",
+    "type": "consumable",
+    "codes": "i_230",
+    "img": "images/items/i_230.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Auto Final",
+    "type": "consumable",
+    "codes": "i_231",
+    "img": "images/items/i_231.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Auto Summon",
+    "type": "consumable",
+    "codes": "i_232",
+    "img": "images/items/i_232.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Trinity Limit",
+    "type": "consumable",
+    "codes": "i_233",
+    "img": "images/items/i_233.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Power Boost",
+    "type": "consumable",
+    "codes": "i_234",
+    "img": "images/items/i_234.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Magic Boost",
+    "type": "consumable",
+    "codes": "i_235",
+    "img": "images/items/i_235.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Defense Boost",
+    "type": "consumable",
+    "codes": "i_236",
+    "img": "images/items/i_236.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "AP Boost",
+    "type": "consumable",
+    "codes": "i_237",
+    "img": "images/items/i_237.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Lucky Emblem",
+    "type": "consumable",
+    "codes": "i_238",
+    "img": "images/items/i_238.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Bounty",
+    "type": "consumable",
+    "codes": "i_239",
+    "img": "images/items/i_239.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Fire",
+    "type": "consumable",
+    "codes": "i_240",
+    "img": "images/items/i_240.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Blizzard",
+    "type": "consumable",
+    "codes": "i_241",
+    "img": "images/items/i_241.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Thunder",
+    "type": "consumable",
+    "codes": "i_242",
+    "img": "images/items/i_242.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Cure",
+    "type": "consumable",
+    "codes": "i_243",
+    "img": "images/items/i_243.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Fantasia",
+    "type": "consumable",
+    "codes": "i_244",
+    "img": "images/items/i_244.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Flare Force",
+    "type": "consumable",
+    "codes": "i_245",
+    "img": "images/items/i_245.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald MP Rage",
+    "type": "consumable",
+    "codes": "i_246",
+    "img": "images/items/i_246.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Jackpot",
+    "type": "consumable",
+    "codes": "i_247",
+    "img": "images/items/i_247.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Lucky Lucky",
+    "type": "consumable",
+    "codes": "i_248",
+    "img": "images/items/i_248.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Fire Boost",
+    "type": "consumable",
+    "codes": "i_249",
+    "img": "images/items/i_249.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Blizzard Boost",
+    "type": "consumable",
+    "codes": "i_250",
+    "img": "images/items/i_250.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Thunder Boost",
+    "type": "consumable",
+    "codes": "i_251",
+    "img": "images/items/i_251.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald MP Haste",
+    "type": "consumable",
+    "codes": "i_252",
+    "img": "images/items/i_252.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald MP Hastera",
+    "type": "consumable",
+    "codes": "i_253",
+    "img": "images/items/i_253.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald MP Hastega",
+    "type": "consumable",
+    "codes": "i_254",
+    "img": "images/items/i_254.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Auto Limit",
+    "type": "consumable",
+    "codes": "i_255",
+    "img": "images/items/i_255.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Hyper Healing",
+    "type": "consumable",
+    "codes": "i_256",
+    "img": "images/items/i_256.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Auto Healing",
+    "type": "consumable",
+    "codes": "i_257",
+    "img": "images/items/i_257.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Item Boost",
+    "type": "consumable",
+    "codes": "i_258",
+    "img": "images/items/i_258.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Damage Control",
+    "type": "consumable",
+    "codes": "i_259",
+    "img": "images/items/i_259.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Donald Draw",
+    "type": "consumable",
+    "codes": "i_260",
+    "img": "images/items/i_260.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Tornado",
+    "type": "consumable",
+    "codes": "i_261",
+    "img": "images/items/i_261.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Turbo",
+    "type": "consumable",
+    "codes": "i_262",
+    "img": "images/items/i_262.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Bash",
+    "type": "consumable",
+    "codes": "i_263",
+    "img": "images/items/i_263.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Tornado Fusion",
+    "type": "consumable",
+    "codes": "i_264",
+    "img": "images/items/i_264.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Teamwork",
+    "type": "consumable",
+    "codes": "i_265",
+    "img": "images/items/i_265.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Draw",
+    "type": "consumable",
+    "codes": "i_266",
+    "img": "images/items/i_266.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Jackpot",
+    "type": "consumable",
+    "codes": "i_267",
+    "img": "images/items/i_267.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Lucky Lucky",
+    "type": "consumable",
+    "codes": "i_268",
+    "img": "images/items/i_268.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Item Boost",
+    "type": "consumable",
+    "codes": "i_269",
+    "img": "images/items/i_269.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy MP Rage",
+    "type": "consumable",
+    "codes": "i_270",
+    "img": "images/items/i_270.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Defender",
+    "type": "consumable",
+    "codes": "i_271",
+    "img": "images/items/i_271.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Damage Control",
+    "type": "consumable",
+    "codes": "i_272",
+    "img": "images/items/i_272.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Auto Limit",
+    "type": "consumable",
+    "codes": "i_273",
+    "img": "images/items/i_273.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Second Chance",
+    "type": "consumable",
+    "codes": "i_274",
+    "img": "images/items/i_274.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Once More",
+    "type": "consumable",
+    "codes": "i_275",
+    "img": "images/items/i_275.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Auto Change",
+    "type": "consumable",
+    "codes": "i_276",
+    "img": "images/items/i_276.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Hyper Healing",
+    "type": "consumable",
+    "codes": "i_277",
+    "img": "images/items/i_277.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Auto Healing",
+    "type": "consumable",
+    "codes": "i_278",
+    "img": "images/items/i_278.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy MP Haste",
+    "type": "consumable",
+    "codes": "i_279",
+    "img": "images/items/i_279.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy MP Hastera",
+    "type": "consumable",
+    "codes": "i_280",
+    "img": "images/items/i_280.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy MP Hastega",
+    "type": "consumable",
+    "codes": "i_281",
+    "img": "images/items/i_281.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Protect",
+    "type": "consumable",
+    "codes": "i_282",
+    "img": "images/items/i_282.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Protera",
+    "type": "consumable",
+    "codes": "i_283",
+    "img": "images/items/i_283.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Goofy Protega",
+    "type": "consumable",
+    "codes": "i_284",
+    "img": "images/items/i_284.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Potion",
+    "type": "consumable",
+    "codes": "i_285",
+    "img": "images/items/i_285.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Hi-Potion",
+    "type": "consumable",
+    "codes": "i_286",
+    "img": "images/items/i_286.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Ether",
+    "type": "consumable",
+    "codes": "i_287",
+    "img": "images/items/i_287.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Elixir",
+    "type": "consumable",
+    "codes": "i_288",
+    "img": "images/items/i_288.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Megalixir",
+    "type": "consumable",
+    "codes": "i_289",
+    "img": "images/items/i_289.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Tent",
+    "type": "consumable",
+    "codes": "i_290",
+    "img": "images/items/i_290.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Drive Recovery",
+    "type": "consumable",
+    "codes": "i_291",
+    "img": "images/items/i_291.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  },
+  {
+    "name": "High Drive Recovery",
+    "type": "consumable",
+    "codes": "i_292",
+    "img": "images/items/i_292.png",
+    "min_quantity": 0,
+    "max_quantity": 0,
+    "initial_quantity": 0
+  }
+]
