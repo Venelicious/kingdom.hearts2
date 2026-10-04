@@ -1,0 +1,18 @@
+{
+  "items": {
+    "Max HP Up": {
+      "img": "images/items/i_166.png",
+      "label": "HP ↑",
+      "kind": "recreated_text",
+      "sha256": "f9a80f03945d89474bc9d49d61448023800842d07531286f844339fc6d9f0ab3",
+      "source": "User-confirmed in-game HP/MP up text convention; newly rendered typography, not extracted artwork"
+    },
+    "Max MP Up": {
+      "img": "images/items/i_167.png",
+      "label": "MP ↑",
+      "kind": "recreated_text",
+      "sha256": "5137407281bc34b3227ceb8c6fef1e658e6bfa8de66802f51e7b84a361d35e6b",
+      "source": "User-confirmed in-game HP/MP up text convention; newly rendered typography, not extracted artwork"
+    }
+  }
+}

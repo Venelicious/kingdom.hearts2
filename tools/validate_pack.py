@@ -21,7 +21,9 @@ assets=json.loads((PACK/'data/tracker-assets.json').read_text(encoding='utf-8'))
 game_assets=json.loads((PACK/'data/game-assets.json').read_text(encoding='utf-8')) if (PACK/'data/game-assets.json').exists() else {'items':{}}
 combined_assets={**assets['items'],**game_assets['items']}
 menu_assets=json.loads((PACK/'data/menu-assets.json').read_text(encoding='utf-8')) if (PACK/'data/menu-assets.json').exists() else {'items':{}}
-display_assets={**menu_assets['items'],**combined_assets}
+text_assets=json.loads((PACK/'data/text-assets.json').read_text(encoding='utf-8'))['items']
+assert {n:r['label'] for n,r in text_assets.items()}=={'Max HP Up':'HP ↑','Max MP Up':'MP ↑'}
+display_assets={**text_assets,**menu_assets['items'],**combined_assets}
 assert not set(menu_assets['items'])&set(combined_assets)
 for name,record in display_assets.items():
     assert hashlib.sha256((PACK/record['img']).read_bytes()).hexdigest()==record['sha256']
@@ -39,7 +41,7 @@ if game_assets['items']:
 print(f"Assets OK: {len(combined_assets)} mapped icons, {len(missing)} explicit missing entries; original-ID overrides and alpha checked")
 if menu_assets['items']:
     assert len(menu_assets['items'])==115
-    assert set(catalog['items'])-set(display_assets)=={'Max HP Up','Max MP Up'}
+    assert set(catalog['items'])==set(display_assets)
     for name,record in menu_assets['items'].items():
         assert record['kind']=='shared_category'
         with Image.open(PACK/record['img']) as im:
@@ -49,7 +51,7 @@ if menu_assets['items']:
     assert menu_assets['items']['Pureblood']['icon_id']==4
     assert menu_assets['items']['Armor Slot Up']['icon_id']==7
     assert menu_assets['items']['Accessory Slot Up']['icon_id']==17
-    print('Menu icons OK: 7 original 24x24 symbols, 115 category fallbacks, 2 placeholders; individual images preserved')
+    print('Menu icons OK: 115 category fallbacks + 2 HP/MP text symbols; all 293 item types covered')
 for obj in items+maps:
     with Image.open(PACK/obj['img']) as im: im.verify()
 dimensions={m['name']:Image.open(PACK/m['img']).size for m in maps}

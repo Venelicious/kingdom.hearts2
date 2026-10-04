@@ -1,8 +1,8 @@
 # Fehlende individuelle Item-Assets
 
 176 von 293 Itemtypen besitzen ein zugeordnetes Icon: 40 aus Red-Buddha/KH2Tracker, 136 zusätzlich aus der lokalen KH2-Extraktion.
-115 weitere Itemtypen verwenden originale, gemeinsam genutzte KH2-Menü-/Kategorie-Icons. 2 verwenden weiterhin eigene Platzhalter.
-117 Itemtypen besitzen keine individuelle Grafik; sie sind unten vollständig aufgeführt. Kategorie-Symbole werden separat gekennzeichnet.
+115 weitere Itemtypen verwenden originale, gemeinsam genutzte KH2-Menü-/Kategorie-Icons. Max HP Up und Max MP Up verwenden neu gerenderte Textsymbole HP ↑ und MP ↑. Es verbleiben keine generischen Platzhalter.
+117 Itemtypen besitzen kein individuelles Originalbild; sie sind unten vollständig aufgeführt. Kategorie- und Textsymbole werden separat gekennzeichnet.
 
 Es wurden nur inhaltlich passende Icons zugeordnet. Welt-, Boss- und generische Kategorie-Icons zählen nicht als eigene Itemgrafik.
 
@@ -23,8 +23,8 @@ Die verbliebenen Fähigkeiten besitzen keine eigene Item-Bildzuordnung. Anti For
 ## Usefull (7)
 
 - Unknown Disk — Kategorie: Document / Key item (Icon 2)
-- Max HP Up — Platzhalter
-- Max MP Up — Platzhalter
+- Max HP Up — Textsymbol: HP ↑
+- Max MP Up — Textsymbol: MP ↑
 - Drive Gauge Up — Kategorie: Form (Icon 25)
 - Armor Slot Up — Kategorie: Armor (Icon 7)
 - Accessory Slot Up — Kategorie: Accessory (Icon 17)

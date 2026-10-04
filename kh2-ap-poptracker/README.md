@@ -1,4 +1,4 @@
-# Kingdom Hearts II – Archipelago Check Atlas v0.1.3
+# Kingdom Hearts II – Archipelago Check Atlas v0.1.4
 
 PopTracker-Pack für **Kingdom Hearts 2 / KH2 Final Mix**, passend zu der auf
 ap.dsatool.org dokumentierten **Archipelago Core 0.6.7 / World 2.0.0**.
@@ -18,7 +18,7 @@ ap.dsatool.org dokumentierten **Archipelago Core 0.6.7 / World 2.0.0**.
 
 - 293 AP-Itemtypen mit unbegrenzten Zählern: 40 passende Icons aus KH2Tracker,
   136 zusätzliche originale KH2-Itembilder, 115 Zuordnungen zu gemeinsamen
-  Original-Kategorie-Icons und zwei Platzhalter (siehe MISSING-ASSETS.md).
+  Original-Kategorie-Icons sowie HP-↑-/MP-↑-Textsymbole (siehe MISSING-ASSETS.md).
 - Alle 724 adressierbaren AP-Locations der gepinnten World.
 - 102 Bereiche aus den ursprünglichen AP-Regionsdaten, ergänzt um nicht dort
   zugeordnete adressierbare Checks.
@@ -54,8 +54,11 @@ Texturen wurden wegen abweichender Maskierung nicht übernommen.
 115 weitere Itemtypen verwenden sieben Original-Menü-Symbole aus
 msg/us/fontimage.bar (Ability, Document, Form, Keyblade, Armor, Accessory,
 Consumable). Die Zuordnungen stehen in data/menu-assets.json und ersetzen
-keine vorhandenen individuellen Itembilder. Max HP Up und Max MP Up bleiben
-Platzhalter, da die geprüfte Icon-Tabelle keine passende HP-/MP-Kategorie nennt.
+keine vorhandenen individuellen Itembilder. Max HP Up und Max MP Up verwenden
+neu gerenderte weiße Textsymbole HP ↑ und MP ↑ mit dunkler Kontur und transparentem
+Hintergrund. Diese folgen der vom Nutzer bestätigten Ingame-Textdarstellung;
+sie sind keine extrahierten Originalgrafiken. Herkunft und Prüfsummen stehen
+in data/text-assets.json.
 
 ## Quellen und Rechte
 
