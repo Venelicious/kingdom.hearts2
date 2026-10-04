@@ -1,4 +1,4 @@
-# Kingdom Hearts II – Archipelago Check Atlas v0.1.1
+# Kingdom Hearts II – Archipelago Check Atlas v0.1.2
 
 PopTracker-Pack für **Kingdom Hearts 2 / KH2 Final Mix**, passend zu der auf
 ap.dsatool.org dokumentierten **Archipelago Core 0.6.7 / World 2.0.0**.
@@ -16,8 +16,8 @@ ap.dsatool.org dokumentierten **Archipelago Core 0.6.7 / World 2.0.0**.
 
 ## Enthalten
 
-- 293 AP-Itemtypen mit unbegrenzten Zählern: 40 passende Icons aus KH2Tracker
-  und 253 eigene Platzhalter (siehe MISSING-ASSETS.md).
+- 293 AP-Itemtypen mit unbegrenzten Zählern: 40 passende Icons aus KH2Tracker,
+  136 zusätzliche originale KH2-Itembilder und 117 Platzhalter (siehe MISSING-ASSETS.md).
 - Alle 724 adressierbaren AP-Locations der gepinnten World.
 - 102 Bereiche aus den ursprünglichen AP-Regionsdaten, ergänzt um nicht dort
   zugeordnete adressierbare Checks.
@@ -44,6 +44,12 @@ Das Quellprojekt nennt Spielgrafiken und Televo als Herkunft seiner Icons;
 die Urheberschaft einzelner Dateien ist dort nicht gesondert dokumentiert.
 Die vollständige Fehlendenliste steht in MISSING-ASSETS.md; die Zuordnung samt
 Quellcommit und SHA-256 in data/tracker-assets.json.
+136 weitere individuelle Grafiken wurden aus einer lokalen OpenKH-Extraktion
+als transparente PNGs exportiert. Zuordnung und Quellprüfsummen stehen in
+data/game-assets.json. Für Boosts und Verbrauchsitems wurden die tatsächlichen
+Spiel-IDs verwendet, da AP für deren Lieferung Karten-Slots umwidmet.
+Die PNGs stammen aus den ursprünglichen IMD-Dateien; die verfügbaren HD-DDS-
+Texturen wurden wegen abweichender Maskierung nicht übernommen.
 
 ## Quellen und Rechte
 

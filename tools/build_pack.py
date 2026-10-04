@@ -92,14 +92,18 @@ for name, data in items.items():
     item_json.append({'name':name,'type':'consumable','codes':item_codes[name],'img':f'images/items/{item_codes[name]}.png','min_quantity':0,'max_quantity':0,'initial_quantity':0})
 asset_file=PACK/'data/tracker-assets.json'
 assets=json.loads(asset_file.read_text(encoding='utf-8')) if asset_file.exists() else {'items':{}}
+game_asset_file=PACK/'data/game-assets.json'
+game_assets=json.loads(game_asset_file.read_text(encoding='utf-8')) if game_asset_file.exists() else {'items':{}}
+combined_assets={**assets['items'],**game_assets['items']}
 for item in item_json:
-    if item['name'] in assets['items']:
-        item['img']=assets['items'][item['name']]['img']
+    if item['name'] in combined_assets:
+        item['img']=combined_assets[item['name']]['img']
 write('items/items.json',item_json)
-missing=[item['name'] for item in item_json if item['name'] not in assets['items']]
+missing=[item['name'] for item in item_json if item['name'] not in combined_assets]
 write('data/missing-item-assets.json',missing)
-report=['# Fehlende Item-Assets','',f"{len(assets['items'])} von {len(items)} Itemtypen besitzen ein zugeordnetes Icon aus Red-Buddha/KH2Tracker.",f'{len(missing)} Itemtypen besitzen dort keinen passenden Treffer und verwenden weiterhin eigene Platzhalter.','',
+report=['# Fehlende Item-Assets','',f"{len(combined_assets)} von {len(items)} Itemtypen besitzen ein zugeordnetes Icon: {len(assets['items'])} aus Red-Buddha/KH2Tracker, {len(game_assets['items'])} zusätzlich aus der lokalen KH2-Extraktion.",f'{len(missing)} Itemtypen besitzen keine passende individuelle Grafik und verwenden weiterhin eigene Platzhalter.','',
         'Es wurden nur inhaltlich passende Icons zugeordnet. Welt-, Boss- und generische Kategorie-Icons zählen nicht als eigene Itemgrafik.','']
+report += ['Die verbliebenen Fähigkeiten besitzen keine eigene Item-Bildzuordnung. Anti Form und Pureblood verweisen in der Spieltabelle auf Bild 0. Disney Castle Key, Unknown Disk, Lucky Emblem, Bounty sowie sechs Stat-/Slot-Upgrades verwenden AP- bzw. Dummy-Slots; deren ursprüngliche Grafiken wären irreführend.','']
 for category,codes in categories.items():
     names=[name for name in missing if item_codes[name] in codes]
     if names:
@@ -173,7 +177,7 @@ for cat,codes in categories.items():
     item_tabs.append({'title':cat.replace('_Table','').replace('Usefull','Stats'),'content':{'type':'itemgrid','item_size':40,'rows':[codes[i:i+10] for i in range(0,len(codes),10)]}})
 layout={'type':'dock','content':[{'type':'tabbed','dock':'left','width':435,'tabs':item_tabs},{'type':'tabbed','tabs':tabs}]}
 write('layouts/tracker.json',{'tracker_default':layout,'tracker_broadcast':layout})
-write('manifest.json',{'name':'Kingdom Hearts II — Archipelago Check Atlas','game_name':'Kingdom Hearts 2','package_uid':'dsatool-kh2-ap-atlas','package_version':'0.1.1','author':'DSATool / Codex','platform':'pc','min_poptracker_version':'0.32.0','variants':{'standard':{'display_name':'World Atlas + AP Auto-Tracking','flags':['ap']}}})
+write('manifest.json',{'name':'Kingdom Hearts II — Archipelago Check Atlas','game_name':'Kingdom Hearts 2','package_uid':'dsatool-kh2-ap-atlas','package_version':'0.1.2','author':'DSATool / Codex','platform':'pc','min_poptracker_version':'0.32.0','variants':{'standard':{'display_name':'World Atlas + AP Auto-Tracking','flags':['ap']}}})
 write('settings.json',{'smooth_scaling':True,'smooth_map_scaling':True})
 write('data/catalog.json',{'source':'Archipelago 0.6.7 / KH2 World 2.0.0','items':{n:0x130000+i for i,n in enumerate(items)},'locations':{n:0x130000+i for i,n in enumerate(locations)},'regions':region_meta})
 script='ITEM_IDS='+lua(item_ids)+'\nITEM_NAMES='+lua(item_codes)+'\nLOCATION_IDS='+lua(mapping)+'\nLOCATION_NAMES='+lua(lookup)+'\nREGIONS='+lua(region_meta)+'\n'

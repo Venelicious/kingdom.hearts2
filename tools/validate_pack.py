@@ -18,12 +18,22 @@ maps=json.loads((PACK/'maps/maps.json').read_text(encoding='utf-8'))
 nodes=json.loads((PACK/'locations/locations.json').read_text(encoding='utf-8'))
 catalog=json.loads((PACK/'data/catalog.json').read_text(encoding='utf-8'))
 assets=json.loads((PACK/'data/tracker-assets.json').read_text(encoding='utf-8')) if (PACK/'data/tracker-assets.json').exists() else {'items':{}}
-for name,record in assets['items'].items():
+game_assets=json.loads((PACK/'data/game-assets.json').read_text(encoding='utf-8')) if (PACK/'data/game-assets.json').exists() else {'items':{}}
+combined_assets={**assets['items'],**game_assets['items']}
+for name,record in combined_assets.items():
     assert hashlib.sha256((PACK/record['img']).read_bytes()).hexdigest()==record['sha256']
     assert next(item for item in items if item['name']==name)['img']==record['img']
 missing=json.loads((PACK/'data/missing-item-assets.json').read_text(encoding='utf-8'))
-assert set(missing)==set(catalog['items'])-set(assets['items'])
-print(f"Assets OK: {len(assets['items'])} copied icons, {len(missing)} explicit missing entries")
+assert set(missing)==set(catalog['items'])-set(combined_assets)
+for name,record in game_assets['items'].items():
+    assert record['game_item_type']!=22 and record['picture_id']>0
+    with Image.open(PACK/record['img']) as im:
+        alpha=im.convert('RGBA').getchannel('A')
+        assert alpha.getbbox() is not None and alpha.getextrema()[0]==0
+if game_assets['items']:
+    for name,game_id in {'Potion':1,'Hi-Potion':2,'Ether':3,'Power Boost':276,'Magic Boost':277,'Defense Boost':278,'AP Boost':279}.items():
+        assert game_assets['items'][name]['game_item_id']==game_id
+print(f"Assets OK: {len(combined_assets)} mapped icons, {len(missing)} explicit missing entries; original-ID overrides and alpha checked")
 for obj in items+maps:
     with Image.open(PACK/obj['img']) as im: im.verify()
 dimensions={m['name']:Image.open(PACK/m['img']).size for m in maps}

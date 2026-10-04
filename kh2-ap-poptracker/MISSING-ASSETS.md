@@ -1,161 +1,27 @@
 # Fehlende Item-Assets
 
-40 von 293 Itemtypen besitzen ein zugeordnetes Icon aus Red-Buddha/KH2Tracker.
-253 Itemtypen besitzen dort keinen passenden Treffer und verwenden weiterhin eigene Platzhalter.
+176 von 293 Itemtypen besitzen ein zugeordnetes Icon: 40 aus Red-Buddha/KH2Tracker, 136 zusätzlich aus der lokalen KH2-Extraktion.
+117 Itemtypen besitzen keine passende individuelle Grafik und verwenden weiterhin eigene Platzhalter.
 
 Es wurden nur inhaltlich passende Icons zugeordnet. Welt-, Boss- und generische Kategorie-Icons zählen nicht als eigene Itemgrafik.
 
-## Progression (13)
+Die verbliebenen Fähigkeiten besitzen keine eigene Item-Bildzuordnung. Anti Form und Pureblood verweisen in der Spieltabelle auf Bild 0. Disney Castle Key, Unknown Disk, Lucky Emblem, Bounty sowie sechs Stat-/Slot-Upgrades verwenden AP- bzw. Dummy-Slots; deren ursprüngliche Grafiken wären irreführend.
 
-- Namine Sketches
+## Progression (1)
+
 - Disney Castle Key
-- Battlefields of War
-- Sword of the Ancestor
-- Beast's Claw
-- Bone Fist
-- Proud Fang
-- Skill and Crossbones
-- Scimitar
-- Membership Card
-- Ice Cream
-- Way to the Dawn
-- Identity Disk
 
 ## Forms (1)
 
 - Anti Form
 
-## Armor (34)
+## Keyblade (1)
 
-- Elven Bandana
-- Divine Bandana
-- Protect Belt
-- Gaia Belt
-- Power Band
-- Buster Band
-- Cosmic Belt
-- Fire Bangle
-- Fira Bangle
-- Firaga Bangle
-- Firagun Bangle
-- Blizzard Armlet
-- Blizzara Armlet
-- Blizzaga Armlet
-- Blizzagun Armlet
-- Thunder Trinket
-- Thundara Trinket
-- Thundaga Trinket
-- Thundagun Trinket
-- Shock Charm
-- Shock Charm+
-- Shadow Anklet
-- Dark Anklet
-- Midnight Anklet
-- Chaos Anklet
-- Champion Belt
-- Abas Chain
-- Aegis Chain
-- Acrisius
-- Acrisius+
-- Cosmic Chain
-- Petite Ribbon
-- Ribbon
-- Grand Ribbon
-
-## Staffs (9)
-
-- Centurion+
-- Meteor Staff
-- Nobody Lance
-- Precious Mushroom
-- Precious Mushroom+
-- Premium Mushroom
-- Rising Dragon
-- Save The Queen+
-- Shaman's Relic
-
-## Shields (9)
-
-- Akashic Record
-- Frozen Pride+
-- Genji Shield
-- Majestic Mushroom
-- Majestic Mushroom+
-- Nobody Guard
-- Ogre Shield
-- Save The King+
-- Ultimate Mushroom
-
-## Keyblade (24)
-
-- Oathkeeper
-- Oblivion
-- Star Seeker
-- Hidden Dragon
-- Hero's Crest
-- Monochrome
-- Follow the Wind
-- Circle of Life
-- Photon Debugger
-- Gull Wing
-- Rumbling Rose
-- Guardian Soul
-- Wishing Lamp
-- Decisive Pumpkin
-- Sleeping Lion
-- Sweet Memories
-- Mysterious Abyss
-- Two Become One
-- Fatal Crest
-- Bond of Flame
-- Fenrir
-- Ultima Weapon
-- Winner's Proof
 - Pureblood
 
-## Accessory (33)
+## Usefull (7)
 
-- Ability Ring
-- Engineer's Ring
-- Technician's Ring
-- Skill Ring
-- Skillful Ring
-- Expert's Ring
-- Master's Ring
-- Cosmic Ring
-- Executive's Ring
-- Sardonyx Ring
-- Tourmaline Ring
-- Aquamarine Ring
-- Garnet Ring
-- Diamond Ring
-- Silver Ring
-- Gold Ring
-- Platinum Ring
-- Mythril Ring
-- Orichalcum Ring
-- Soldier Earring
-- Fencer Earring
-- Mage Earring
-- Slayer Earring
-- Medal
-- Moon Amulet
-- Star Charm
-- Cosmic Arts
-- Shadow Archive
-- Shadow Archive+
-- Full Bloom
-- Full Bloom+
-- Draw Ring
-- Lucky Ring
-
-## Usefull (11)
-
-- Mickey Munny Pouch
-- Olette Munny Pouch
-- Hades Cup Trophy
 - Unknown Disk
-- Olympus Stone
 - Max HP Up
 - Max MP Up
 - Drive Gauge Up
@@ -229,13 +95,6 @@ Es wurden nur inhaltlich passende Icons zugeordnet. Welt-, Boss- und generische 
 - Auto Summon
 - Trinity Limit
 
-## Boosts (4)
-
-- Power Boost
-- Magic Boost
-- Defense Boost
-- AP Boost
-
 ## Wincon (2)
 
 - Lucky Emblem
@@ -291,14 +150,3 @@ Es wurden nur inhaltlich passende Icons zugeordnet. Welt-, Boss- und generische 
 - Goofy Protect
 - Goofy Protera
 - Goofy Protega
-
-## Consumable (8)
-
-- Potion
-- Hi-Potion
-- Ether
-- Elixir
-- Megalixir
-- Tent
-- Drive Recovery
-- High Drive Recovery

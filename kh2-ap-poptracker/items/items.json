@@ -156,7 +156,7 @@
     "name": "Namine Sketches",
     "type": "consumable",
     "codes": "i_17",
-    "img": "images/items/i_17.png",
+    "img": "images/kh2game/item-231.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -174,7 +174,7 @@
     "name": "Battlefields of War",
     "type": "consumable",
     "codes": "i_19",
-    "img": "images/items/i_19.png",
+    "img": "images/kh2game/item-093.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -183,7 +183,7 @@
     "name": "Sword of the Ancestor",
     "type": "consumable",
     "codes": "i_20",
-    "img": "images/items/i_20.png",
+    "img": "images/kh2game/item-094.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -192,7 +192,7 @@
     "name": "Beast's Claw",
     "type": "consumable",
     "codes": "i_21",
-    "img": "images/items/i_21.png",
+    "img": "images/kh2game/item-098.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -201,7 +201,7 @@
     "name": "Bone Fist",
     "type": "consumable",
     "codes": "i_22",
-    "img": "images/items/i_22.png",
+    "img": "images/kh2game/item-099.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -210,7 +210,7 @@
     "name": "Proud Fang",
     "type": "consumable",
     "codes": "i_23",
-    "img": "images/items/i_23.png",
+    "img": "images/kh2game/item-100.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -219,7 +219,7 @@
     "name": "Skill and Crossbones",
     "type": "consumable",
     "codes": "i_24",
-    "img": "images/items/i_24.png",
+    "img": "images/kh2game/item-096.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -228,7 +228,7 @@
     "name": "Scimitar",
     "type": "consumable",
     "codes": "i_25",
-    "img": "images/items/i_25.png",
+    "img": "images/kh2game/item-092.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -237,7 +237,7 @@
     "name": "Membership Card",
     "type": "consumable",
     "codes": "i_26",
-    "img": "images/items/i_26.png",
+    "img": "images/kh2game/item-232.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -246,7 +246,7 @@
     "name": "Ice Cream",
     "type": "consumable",
     "codes": "i_27",
-    "img": "images/items/i_27.png",
+    "img": "images/kh2game/item-238.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -255,7 +255,7 @@
     "name": "Way to the Dawn",
     "type": "consumable",
     "codes": "i_28",
-    "img": "images/items/i_28.png",
+    "img": "images/kh2game/item-097.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -264,7 +264,7 @@
     "name": "Identity Disk",
     "type": "consumable",
     "codes": "i_29",
-    "img": "images/items/i_29.png",
+    "img": "images/kh2game/item-095.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -426,7 +426,7 @@
     "name": "Elven Bandana",
     "type": "consumable",
     "codes": "i_47",
-    "img": "images/items/i_47.png",
+    "img": "images/kh2game/item-101.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -435,7 +435,7 @@
     "name": "Divine Bandana",
     "type": "consumable",
     "codes": "i_48",
-    "img": "images/items/i_48.png",
+    "img": "images/kh2game/item-102.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -444,7 +444,7 @@
     "name": "Protect Belt",
     "type": "consumable",
     "codes": "i_49",
-    "img": "images/items/i_49.png",
+    "img": "images/kh2game/item-105.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -453,7 +453,7 @@
     "name": "Gaia Belt",
     "type": "consumable",
     "codes": "i_50",
-    "img": "images/items/i_50.png",
+    "img": "images/kh2game/item-106.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -462,7 +462,7 @@
     "name": "Power Band",
     "type": "consumable",
     "codes": "i_51",
-    "img": "images/items/i_51.png",
+    "img": "images/kh2game/item-103.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -471,7 +471,7 @@
     "name": "Buster Band",
     "type": "consumable",
     "codes": "i_52",
-    "img": "images/items/i_52.png",
+    "img": "images/kh2game/item-104.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -480,7 +480,7 @@
     "name": "Cosmic Belt",
     "type": "consumable",
     "codes": "i_53",
-    "img": "images/items/i_53.png",
+    "img": "images/kh2game/item-107.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -489,7 +489,7 @@
     "name": "Fire Bangle",
     "type": "consumable",
     "codes": "i_54",
-    "img": "images/items/i_54.png",
+    "img": "images/kh2game/item-113.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -498,7 +498,7 @@
     "name": "Fira Bangle",
     "type": "consumable",
     "codes": "i_55",
-    "img": "images/items/i_55.png",
+    "img": "images/kh2game/item-114.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -507,7 +507,7 @@
     "name": "Firaga Bangle",
     "type": "consumable",
     "codes": "i_56",
-    "img": "images/items/i_56.png",
+    "img": "images/kh2game/item-115.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -516,7 +516,7 @@
     "name": "Firagun Bangle",
     "type": "consumable",
     "codes": "i_57",
-    "img": "images/items/i_57.png",
+    "img": "images/kh2game/item-116.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -525,7 +525,7 @@
     "name": "Blizzard Armlet",
     "type": "consumable",
     "codes": "i_58",
-    "img": "images/items/i_58.png",
+    "img": "images/kh2game/item-118.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -534,7 +534,7 @@
     "name": "Blizzara Armlet",
     "type": "consumable",
     "codes": "i_59",
-    "img": "images/items/i_59.png",
+    "img": "images/kh2game/item-119.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -543,7 +543,7 @@
     "name": "Blizzaga Armlet",
     "type": "consumable",
     "codes": "i_60",
-    "img": "images/items/i_60.png",
+    "img": "images/kh2game/item-120.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -552,7 +552,7 @@
     "name": "Blizzagun Armlet",
     "type": "consumable",
     "codes": "i_61",
-    "img": "images/items/i_61.png",
+    "img": "images/kh2game/item-121.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -561,7 +561,7 @@
     "name": "Thunder Trinket",
     "type": "consumable",
     "codes": "i_62",
-    "img": "images/items/i_62.png",
+    "img": "images/kh2game/item-123.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -570,7 +570,7 @@
     "name": "Thundara Trinket",
     "type": "consumable",
     "codes": "i_63",
-    "img": "images/items/i_63.png",
+    "img": "images/kh2game/item-124.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -579,7 +579,7 @@
     "name": "Thundaga Trinket",
     "type": "consumable",
     "codes": "i_64",
-    "img": "images/items/i_64.png",
+    "img": "images/kh2game/item-125.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -588,7 +588,7 @@
     "name": "Thundagun Trinket",
     "type": "consumable",
     "codes": "i_65",
-    "img": "images/items/i_65.png",
+    "img": "images/kh2game/item-126.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -597,7 +597,7 @@
     "name": "Shock Charm",
     "type": "consumable",
     "codes": "i_66",
-    "img": "images/items/i_66.png",
+    "img": "images/kh2game/item-330.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -606,7 +606,7 @@
     "name": "Shock Charm+",
     "type": "consumable",
     "codes": "i_67",
-    "img": "images/items/i_67.png",
+    "img": "images/kh2game/item-331.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -615,7 +615,7 @@
     "name": "Shadow Anklet",
     "type": "consumable",
     "codes": "i_68",
-    "img": "images/items/i_68.png",
+    "img": "images/kh2game/item-128.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -624,7 +624,7 @@
     "name": "Dark Anklet",
     "type": "consumable",
     "codes": "i_69",
-    "img": "images/items/i_69.png",
+    "img": "images/kh2game/item-129.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -633,7 +633,7 @@
     "name": "Midnight Anklet",
     "type": "consumable",
     "codes": "i_70",
-    "img": "images/items/i_70.png",
+    "img": "images/kh2game/item-130.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -642,7 +642,7 @@
     "name": "Chaos Anklet",
     "type": "consumable",
     "codes": "i_71",
-    "img": "images/items/i_71.png",
+    "img": "images/kh2game/item-131.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -651,7 +651,7 @@
     "name": "Champion Belt",
     "type": "consumable",
     "codes": "i_72",
-    "img": "images/items/i_72.png",
+    "img": "images/kh2game/item-137.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -660,7 +660,7 @@
     "name": "Abas Chain",
     "type": "consumable",
     "codes": "i_73",
-    "img": "images/items/i_73.png",
+    "img": "images/kh2game/item-133.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -669,7 +669,7 @@
     "name": "Aegis Chain",
     "type": "consumable",
     "codes": "i_74",
-    "img": "images/items/i_74.png",
+    "img": "images/kh2game/item-134.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -678,7 +678,7 @@
     "name": "Acrisius",
     "type": "consumable",
     "codes": "i_75",
-    "img": "images/items/i_75.png",
+    "img": "images/kh2game/item-135.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -687,7 +687,7 @@
     "name": "Acrisius+",
     "type": "consumable",
     "codes": "i_76",
-    "img": "images/items/i_76.png",
+    "img": "images/kh2game/item-139.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -696,7 +696,7 @@
     "name": "Cosmic Chain",
     "type": "consumable",
     "codes": "i_77",
-    "img": "images/items/i_77.png",
+    "img": "images/kh2game/item-140.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -705,7 +705,7 @@
     "name": "Petite Ribbon",
     "type": "consumable",
     "codes": "i_78",
-    "img": "images/items/i_78.png",
+    "img": "images/kh2game/item-138.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -714,7 +714,7 @@
     "name": "Ribbon",
     "type": "consumable",
     "codes": "i_79",
-    "img": "images/items/i_79.png",
+    "img": "images/kh2game/item-136.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -723,7 +723,7 @@
     "name": "Grand Ribbon",
     "type": "consumable",
     "codes": "i_80",
-    "img": "images/items/i_80.png",
+    "img": "images/kh2game/item-332.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -777,7 +777,7 @@
     "name": "Centurion+",
     "type": "consumable",
     "codes": "i_86",
-    "img": "images/items/i_86.png",
+    "img": "images/kh2game/item-304.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -786,7 +786,7 @@
     "name": "Meteor Staff",
     "type": "consumable",
     "codes": "i_87",
-    "img": "images/items/i_87.png",
+    "img": "images/kh2game/item-071.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -795,7 +795,7 @@
     "name": "Nobody Lance",
     "type": "consumable",
     "codes": "i_88",
-    "img": "images/items/i_88.png",
+    "img": "images/kh2game/item-076.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -804,7 +804,7 @@
     "name": "Precious Mushroom",
     "type": "consumable",
     "codes": "i_89",
-    "img": "images/items/i_89.png",
+    "img": "images/kh2game/item-307.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -813,7 +813,7 @@
     "name": "Precious Mushroom+",
     "type": "consumable",
     "codes": "i_90",
-    "img": "images/items/i_90.png",
+    "img": "images/kh2game/item-308.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -822,7 +822,7 @@
     "name": "Premium Mushroom",
     "type": "consumable",
     "codes": "i_91",
-    "img": "images/items/i_91.png",
+    "img": "images/kh2game/item-309.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -831,7 +831,7 @@
     "name": "Rising Dragon",
     "type": "consumable",
     "codes": "i_92",
-    "img": "images/items/i_92.png",
+    "img": "images/kh2game/item-075.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -840,7 +840,7 @@
     "name": "Save The Queen+",
     "type": "consumable",
     "codes": "i_93",
-    "img": "images/items/i_93.png",
+    "img": "images/kh2game/item-302.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -849,7 +849,7 @@
     "name": "Shaman's Relic",
     "type": "consumable",
     "codes": "i_94",
-    "img": "images/items/i_94.png",
+    "img": "images/kh2game/item-077.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -858,7 +858,7 @@
     "name": "Akashic Record",
     "type": "consumable",
     "codes": "i_95",
-    "img": "images/items/i_95.png",
+    "img": "images/kh2game/item-088.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -867,7 +867,7 @@
     "name": "Frozen Pride+",
     "type": "consumable",
     "codes": "i_96",
-    "img": "images/items/i_96.png",
+    "img": "images/kh2game/item-312.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -876,7 +876,7 @@
     "name": "Genji Shield",
     "type": "consumable",
     "codes": "i_97",
-    "img": "images/items/i_97.png",
+    "img": "images/kh2game/item-087.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -885,7 +885,7 @@
     "name": "Majestic Mushroom",
     "type": "consumable",
     "codes": "i_98",
-    "img": "images/items/i_98.png",
+    "img": "images/kh2game/item-315.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -894,7 +894,7 @@
     "name": "Majestic Mushroom+",
     "type": "consumable",
     "codes": "i_99",
-    "img": "images/items/i_99.png",
+    "img": "images/kh2game/item-316.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -903,7 +903,7 @@
     "name": "Nobody Guard",
     "type": "consumable",
     "codes": "i_100",
-    "img": "images/items/i_100.png",
+    "img": "images/kh2game/item-089.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -912,7 +912,7 @@
     "name": "Ogre Shield",
     "type": "consumable",
     "codes": "i_101",
-    "img": "images/items/i_101.png",
+    "img": "images/kh2game/item-083.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -921,7 +921,7 @@
     "name": "Save The King+",
     "type": "consumable",
     "codes": "i_102",
-    "img": "images/items/i_102.png",
+    "img": "images/kh2game/item-310.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -930,7 +930,7 @@
     "name": "Ultimate Mushroom",
     "type": "consumable",
     "codes": "i_103",
-    "img": "images/items/i_103.png",
+    "img": "images/kh2game/item-317.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -939,7 +939,7 @@
     "name": "Oathkeeper",
     "type": "consumable",
     "codes": "i_104",
-    "img": "images/items/i_104.png",
+    "img": "images/kh2game/item-044.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -948,7 +948,7 @@
     "name": "Oblivion",
     "type": "consumable",
     "codes": "i_105",
-    "img": "images/items/i_105.png",
+    "img": "images/kh2game/item-045.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -957,7 +957,7 @@
     "name": "Star Seeker",
     "type": "consumable",
     "codes": "i_106",
-    "img": "images/items/i_106.png",
+    "img": "images/kh2game/item-046.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -966,7 +966,7 @@
     "name": "Hidden Dragon",
     "type": "consumable",
     "codes": "i_107",
-    "img": "images/items/i_107.png",
+    "img": "images/kh2game/item-047.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -975,7 +975,7 @@
     "name": "Hero's Crest",
     "type": "consumable",
     "codes": "i_108",
-    "img": "images/items/i_108.png",
+    "img": "images/kh2game/item-048.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -984,7 +984,7 @@
     "name": "Monochrome",
     "type": "consumable",
     "codes": "i_109",
-    "img": "images/items/i_109.png",
+    "img": "images/kh2game/item-049.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -993,7 +993,7 @@
     "name": "Follow the Wind",
     "type": "consumable",
     "codes": "i_110",
-    "img": "images/items/i_110.png",
+    "img": "images/kh2game/item-050.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1002,7 +1002,7 @@
     "name": "Circle of Life",
     "type": "consumable",
     "codes": "i_111",
-    "img": "images/items/i_111.png",
+    "img": "images/kh2game/item-051.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1011,7 +1011,7 @@
     "name": "Photon Debugger",
     "type": "consumable",
     "codes": "i_112",
-    "img": "images/items/i_112.png",
+    "img": "images/kh2game/item-052.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1020,7 +1020,7 @@
     "name": "Gull Wing",
     "type": "consumable",
     "codes": "i_113",
-    "img": "images/items/i_113.png",
+    "img": "images/kh2game/item-053.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1029,7 +1029,7 @@
     "name": "Rumbling Rose",
     "type": "consumable",
     "codes": "i_114",
-    "img": "images/items/i_114.png",
+    "img": "images/kh2game/item-054.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1038,7 +1038,7 @@
     "name": "Guardian Soul",
     "type": "consumable",
     "codes": "i_115",
-    "img": "images/items/i_115.png",
+    "img": "images/kh2game/item-055.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1047,7 +1047,7 @@
     "name": "Wishing Lamp",
     "type": "consumable",
     "codes": "i_116",
-    "img": "images/items/i_116.png",
+    "img": "images/kh2game/item-056.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1056,7 +1056,7 @@
     "name": "Decisive Pumpkin",
     "type": "consumable",
     "codes": "i_117",
-    "img": "images/items/i_117.png",
+    "img": "images/kh2game/item-057.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1065,7 +1065,7 @@
     "name": "Sleeping Lion",
     "type": "consumable",
     "codes": "i_118",
-    "img": "images/items/i_118.png",
+    "img": "images/kh2game/item-058.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1074,7 +1074,7 @@
     "name": "Sweet Memories",
     "type": "consumable",
     "codes": "i_119",
-    "img": "images/items/i_119.png",
+    "img": "images/kh2game/item-059.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1083,7 +1083,7 @@
     "name": "Mysterious Abyss",
     "type": "consumable",
     "codes": "i_120",
-    "img": "images/items/i_120.png",
+    "img": "images/kh2game/item-060.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1092,7 +1092,7 @@
     "name": "Two Become One",
     "type": "consumable",
     "codes": "i_121",
-    "img": "images/items/i_121.png",
+    "img": "images/kh2game/item-300.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1101,7 +1101,7 @@
     "name": "Fatal Crest",
     "type": "consumable",
     "codes": "i_122",
-    "img": "images/items/i_122.png",
+    "img": "images/kh2game/item-061.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1110,7 +1110,7 @@
     "name": "Bond of Flame",
     "type": "consumable",
     "codes": "i_123",
-    "img": "images/items/i_123.png",
+    "img": "images/kh2game/item-062.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1119,7 +1119,7 @@
     "name": "Fenrir",
     "type": "consumable",
     "codes": "i_124",
-    "img": "images/items/i_124.png",
+    "img": "images/kh2game/item-063.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1128,7 +1128,7 @@
     "name": "Ultima Weapon",
     "type": "consumable",
     "codes": "i_125",
-    "img": "images/items/i_125.png",
+    "img": "images/kh2game/item-064.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1137,7 +1137,7 @@
     "name": "Winner's Proof",
     "type": "consumable",
     "codes": "i_126",
-    "img": "images/items/i_126.png",
+    "img": "images/kh2game/item-301.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1155,7 +1155,7 @@
     "name": "Ability Ring",
     "type": "consumable",
     "codes": "i_128",
-    "img": "images/items/i_128.png",
+    "img": "images/kh2game/item-149.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1164,7 +1164,7 @@
     "name": "Engineer's Ring",
     "type": "consumable",
     "codes": "i_129",
-    "img": "images/items/i_129.png",
+    "img": "images/kh2game/item-150.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1173,7 +1173,7 @@
     "name": "Technician's Ring",
     "type": "consumable",
     "codes": "i_130",
-    "img": "images/items/i_130.png",
+    "img": "images/kh2game/item-151.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1182,7 +1182,7 @@
     "name": "Skill Ring",
     "type": "consumable",
     "codes": "i_131",
-    "img": "images/items/i_131.png",
+    "img": "images/kh2game/item-166.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1191,7 +1191,7 @@
     "name": "Skillful Ring",
     "type": "consumable",
     "codes": "i_132",
-    "img": "images/items/i_132.png",
+    "img": "images/kh2game/item-167.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1200,7 +1200,7 @@
     "name": "Expert's Ring",
     "type": "consumable",
     "codes": "i_133",
-    "img": "images/items/i_133.png",
+    "img": "images/kh2game/item-152.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1209,7 +1209,7 @@
     "name": "Master's Ring",
     "type": "consumable",
     "codes": "i_134",
-    "img": "images/items/i_134.png",
+    "img": "images/kh2game/item-163.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1218,7 +1218,7 @@
     "name": "Cosmic Ring",
     "type": "consumable",
     "codes": "i_135",
-    "img": "images/items/i_135.png",
+    "img": "images/kh2game/item-172.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1227,7 +1227,7 @@
     "name": "Executive's Ring",
     "type": "consumable",
     "codes": "i_136",
-    "img": "images/items/i_136.png",
+    "img": "images/kh2game/item-344.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1236,7 +1236,7 @@
     "name": "Sardonyx Ring",
     "type": "consumable",
     "codes": "i_137",
-    "img": "images/items/i_137.png",
+    "img": "images/kh2game/item-153.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1245,7 +1245,7 @@
     "name": "Tourmaline Ring",
     "type": "consumable",
     "codes": "i_138",
-    "img": "images/items/i_138.png",
+    "img": "images/kh2game/item-154.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1254,7 +1254,7 @@
     "name": "Aquamarine Ring",
     "type": "consumable",
     "codes": "i_139",
-    "img": "images/items/i_139.png",
+    "img": "images/kh2game/item-155.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1263,7 +1263,7 @@
     "name": "Garnet Ring",
     "type": "consumable",
     "codes": "i_140",
-    "img": "images/items/i_140.png",
+    "img": "images/kh2game/item-156.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1272,7 +1272,7 @@
     "name": "Diamond Ring",
     "type": "consumable",
     "codes": "i_141",
-    "img": "images/items/i_141.png",
+    "img": "images/kh2game/item-157.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1281,7 +1281,7 @@
     "name": "Silver Ring",
     "type": "consumable",
     "codes": "i_142",
-    "img": "images/items/i_142.png",
+    "img": "images/kh2game/item-158.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1290,7 +1290,7 @@
     "name": "Gold Ring",
     "type": "consumable",
     "codes": "i_143",
-    "img": "images/items/i_143.png",
+    "img": "images/kh2game/item-159.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1299,7 +1299,7 @@
     "name": "Platinum Ring",
     "type": "consumable",
     "codes": "i_144",
-    "img": "images/items/i_144.png",
+    "img": "images/kh2game/item-160.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1308,7 +1308,7 @@
     "name": "Mythril Ring",
     "type": "consumable",
     "codes": "i_145",
-    "img": "images/items/i_145.png",
+    "img": "images/kh2game/item-161.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1317,7 +1317,7 @@
     "name": "Orichalcum Ring",
     "type": "consumable",
     "codes": "i_146",
-    "img": "images/items/i_146.png",
+    "img": "images/kh2game/item-162.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1326,7 +1326,7 @@
     "name": "Soldier Earring",
     "type": "consumable",
     "codes": "i_147",
-    "img": "images/items/i_147.png",
+    "img": "images/kh2game/item-168.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1335,7 +1335,7 @@
     "name": "Fencer Earring",
     "type": "consumable",
     "codes": "i_148",
-    "img": "images/items/i_148.png",
+    "img": "images/kh2game/item-169.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1344,7 +1344,7 @@
     "name": "Mage Earring",
     "type": "consumable",
     "codes": "i_149",
-    "img": "images/items/i_149.png",
+    "img": "images/kh2game/item-170.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1353,7 +1353,7 @@
     "name": "Slayer Earring",
     "type": "consumable",
     "codes": "i_150",
-    "img": "images/items/i_150.png",
+    "img": "images/kh2game/item-171.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1362,7 +1362,7 @@
     "name": "Medal",
     "type": "consumable",
     "codes": "i_151",
-    "img": "images/items/i_151.png",
+    "img": "images/kh2game/item-173.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1371,7 +1371,7 @@
     "name": "Moon Amulet",
     "type": "consumable",
     "codes": "i_152",
-    "img": "images/items/i_152.png",
+    "img": "images/kh2game/item-164.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1380,7 +1380,7 @@
     "name": "Star Charm",
     "type": "consumable",
     "codes": "i_153",
-    "img": "images/items/i_153.png",
+    "img": "images/kh2game/item-165.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1389,7 +1389,7 @@
     "name": "Cosmic Arts",
     "type": "consumable",
     "codes": "i_154",
-    "img": "images/items/i_154.png",
+    "img": "images/kh2game/item-174.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1398,7 +1398,7 @@
     "name": "Shadow Archive",
     "type": "consumable",
     "codes": "i_155",
-    "img": "images/items/i_155.png",
+    "img": "images/kh2game/item-340.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1407,7 +1407,7 @@
     "name": "Shadow Archive+",
     "type": "consumable",
     "codes": "i_156",
-    "img": "images/items/i_156.png",
+    "img": "images/kh2game/item-341.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1416,7 +1416,7 @@
     "name": "Full Bloom",
     "type": "consumable",
     "codes": "i_157",
-    "img": "images/items/i_157.png",
+    "img": "images/kh2game/item-342.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1425,7 +1425,7 @@
     "name": "Full Bloom+",
     "type": "consumable",
     "codes": "i_158",
-    "img": "images/items/i_158.png",
+    "img": "images/kh2game/item-343.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1434,7 +1434,7 @@
     "name": "Draw Ring",
     "type": "consumable",
     "codes": "i_159",
-    "img": "images/items/i_159.png",
+    "img": "images/kh2game/item-179.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1443,7 +1443,7 @@
     "name": "Lucky Ring",
     "type": "consumable",
     "codes": "i_160",
-    "img": "images/items/i_160.png",
+    "img": "images/kh2game/item-177.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1452,7 +1452,7 @@
     "name": "Mickey Munny Pouch",
     "type": "consumable",
     "codes": "i_161",
-    "img": "images/items/i_161.png",
+    "img": "images/kh2game/item-225.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1461,7 +1461,7 @@
     "name": "Olette Munny Pouch",
     "type": "consumable",
     "codes": "i_162",
-    "img": "images/items/i_162.png",
+    "img": "images/kh2game/item-225.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1470,7 +1470,7 @@
     "name": "Hades Cup Trophy",
     "type": "consumable",
     "codes": "i_163",
-    "img": "images/items/i_163.png",
+    "img": "images/kh2game/item-244.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1488,7 +1488,7 @@
     "name": "Olympus Stone",
     "type": "consumable",
     "codes": "i_165",
-    "img": "images/items/i_165.png",
+    "img": "images/kh2game/item-233.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2109,7 +2109,7 @@
     "name": "Power Boost",
     "type": "consumable",
     "codes": "i_234",
-    "img": "images/items/i_234.png",
+    "img": "images/kh2game/item-034.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2118,7 +2118,7 @@
     "name": "Magic Boost",
     "type": "consumable",
     "codes": "i_235",
-    "img": "images/items/i_235.png",
+    "img": "images/kh2game/item-035.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2127,7 +2127,7 @@
     "name": "Defense Boost",
     "type": "consumable",
     "codes": "i_236",
-    "img": "images/items/i_236.png",
+    "img": "images/kh2game/item-036.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2136,7 +2136,7 @@
     "name": "AP Boost",
     "type": "consumable",
     "codes": "i_237",
-    "img": "images/items/i_237.png",
+    "img": "images/kh2game/item-037.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2568,7 +2568,7 @@
     "name": "Potion",
     "type": "consumable",
     "codes": "i_285",
-    "img": "images/items/i_285.png",
+    "img": "images/kh2game/item-001.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2577,7 +2577,7 @@
     "name": "Hi-Potion",
     "type": "consumable",
     "codes": "i_286",
-    "img": "images/items/i_286.png",
+    "img": "images/kh2game/item-002.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2586,7 +2586,7 @@
     "name": "Ether",
     "type": "consumable",
     "codes": "i_287",
-    "img": "images/items/i_287.png",
+    "img": "images/kh2game/item-004.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2595,7 +2595,7 @@
     "name": "Elixir",
     "type": "consumable",
     "codes": "i_288",
-    "img": "images/items/i_288.png",
+    "img": "images/kh2game/item-007.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2604,7 +2604,7 @@
     "name": "Megalixir",
     "type": "consumable",
     "codes": "i_289",
-    "img": "images/items/i_289.png",
+    "img": "images/kh2game/item-008.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2613,7 +2613,7 @@
     "name": "Tent",
     "type": "consumable",
     "codes": "i_290",
-    "img": "images/items/i_290.png",
+    "img": "images/kh2game/item-033.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2622,7 +2622,7 @@
     "name": "Drive Recovery",
     "type": "consumable",
     "codes": "i_291",
-    "img": "images/items/i_291.png",
+    "img": "images/kh2game/item-009.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -2631,7 +2631,7 @@
     "name": "High Drive Recovery",
     "type": "consumable",
     "codes": "i_292",
-    "img": "images/items/i_292.png",
+    "img": "images/kh2game/item-010.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
