@@ -1,5 +1,6 @@
 """Validate official schemas, resources, AP IDs and real Lua callback behavior."""
 import json
+import hashlib
 from pathlib import Path
 import jsonschema
 from lupa import LuaRuntime
@@ -16,6 +17,13 @@ items=json.loads((PACK/'items/items.json').read_text(encoding='utf-8'))
 maps=json.loads((PACK/'maps/maps.json').read_text(encoding='utf-8'))
 nodes=json.loads((PACK/'locations/locations.json').read_text(encoding='utf-8'))
 catalog=json.loads((PACK/'data/catalog.json').read_text(encoding='utf-8'))
+assets=json.loads((PACK/'data/tracker-assets.json').read_text(encoding='utf-8')) if (PACK/'data/tracker-assets.json').exists() else {'items':{}}
+for name,record in assets['items'].items():
+    assert hashlib.sha256((PACK/record['img']).read_bytes()).hexdigest()==record['sha256']
+    assert next(item for item in items if item['name']==name)['img']==record['img']
+missing=json.loads((PACK/'data/missing-item-assets.json').read_text(encoding='utf-8'))
+assert set(missing)==set(catalog['items'])-set(assets['items'])
+print(f"Assets OK: {len(assets['items'])} copied icons, {len(missing)} explicit missing entries")
 for obj in items+maps:
     with Image.open(PACK/obj['img']) as im: im.verify()
 dimensions={m['name']:Image.open(PACK/m['img']).size for m in maps}

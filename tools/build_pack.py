@@ -90,7 +90,23 @@ for name, data in items.items():
     d.text((32,48),label,font=font(11),anchor='mm',fill='white')
     image.save(PACK/'images/items'/f'{item_codes[name]}.png')
     item_json.append({'name':name,'type':'consumable','codes':item_codes[name],'img':f'images/items/{item_codes[name]}.png','min_quantity':0,'max_quantity':0,'initial_quantity':0})
+asset_file=PACK/'data/tracker-assets.json'
+assets=json.loads(asset_file.read_text(encoding='utf-8')) if asset_file.exists() else {'items':{}}
+for item in item_json:
+    if item['name'] in assets['items']:
+        item['img']=assets['items'][item['name']]['img']
 write('items/items.json',item_json)
+missing=[item['name'] for item in item_json if item['name'] not in assets['items']]
+write('data/missing-item-assets.json',missing)
+report=['# Fehlende Item-Assets','',f"{len(assets['items'])} von {len(items)} Itemtypen besitzen ein zugeordnetes Icon aus Red-Buddha/KH2Tracker.",f'{len(missing)} Itemtypen besitzen dort keinen passenden Treffer und verwenden weiterhin eigene Platzhalter.','',
+        'Es wurden nur inhaltlich passende Icons zugeordnet. Welt-, Boss- und generische Kategorie-Icons zählen nicht als eigene Itemgrafik.','']
+for category,codes in categories.items():
+    names=[name for name in missing if item_codes[name] in codes]
+    if names:
+        report += ['## '+category.replace('_Table','')+f' ({len(names)})','']
+        report += ['- '+name for name in names]
+        report += ['']
+(PACK/'MISSING-ASSETS.md').write_text('\n'.join(report),encoding='utf-8')
 
 # Group regions by their dominant original location table, retaining exact AP names.
 labels={'LoD_Checks':'Land of Dragons','AG_Checks':'Agrabah','DC_Checks':'Disney Castle & Timeless River','HundredAcre_Checks':'100 Acre Wood','Oc_Checks':'Olympus Coliseum','BC_Checks':"Beast's Castle",'SP_Checks':'Space Paranoids','PR_Checks':'Port Royal','HT_Checks':'Halloween Town','HB_Checks':'Hollow Bastion & CoR','PL_Checks':'Pride Lands','STT_Checks':'Simulated Twilight Town','TT_Checks':'Twilight Town','TWTNW_Checks':'The World That Never Was','SoraLevels':'Sora Levels','Form_Checks':'Drive Forms','GoA_Checks':'Garden of Assemblage','Keyblade_Slots':'Weapon Slots','Donald_Checks':'Donald','Goofy_Checks':'Goofy','Atlantica_Checks':'Atlantica','Summon_Checks':'Summons'}
@@ -157,7 +173,7 @@ for cat,codes in categories.items():
     item_tabs.append({'title':cat.replace('_Table','').replace('Usefull','Stats'),'content':{'type':'itemgrid','item_size':40,'rows':[codes[i:i+10] for i in range(0,len(codes),10)]}})
 layout={'type':'dock','content':[{'type':'tabbed','dock':'left','width':435,'tabs':item_tabs},{'type':'tabbed','tabs':tabs}]}
 write('layouts/tracker.json',{'tracker_default':layout,'tracker_broadcast':layout})
-write('manifest.json',{'name':'Kingdom Hearts II — Archipelago Check Atlas','game_name':'Kingdom Hearts 2','package_uid':'dsatool-kh2-ap-atlas','package_version':'0.1.0','author':'DSATool / Codex','platform':'pc','min_poptracker_version':'0.32.0','variants':{'standard':{'display_name':'World Atlas + AP Auto-Tracking','flags':['ap']}}})
+write('manifest.json',{'name':'Kingdom Hearts II — Archipelago Check Atlas','game_name':'Kingdom Hearts 2','package_uid':'dsatool-kh2-ap-atlas','package_version':'0.1.1','author':'DSATool / Codex','platform':'pc','min_poptracker_version':'0.32.0','variants':{'standard':{'display_name':'World Atlas + AP Auto-Tracking','flags':['ap']}}})
 write('settings.json',{'smooth_scaling':True,'smooth_map_scaling':True})
 write('data/catalog.json',{'source':'Archipelago 0.6.7 / KH2 World 2.0.0','items':{n:0x130000+i for i,n in enumerate(items)},'locations':{n:0x130000+i for i,n in enumerate(locations)},'regions':region_meta})
 script='ITEM_IDS='+lua(item_ids)+'\nITEM_NAMES='+lua(item_codes)+'\nLOCATION_IDS='+lua(mapping)+'\nLOCATION_NAMES='+lua(lookup)+'\nREGIONS='+lua(region_meta)+'\n'

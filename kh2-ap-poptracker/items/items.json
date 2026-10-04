@@ -3,7 +3,7 @@
     "name": "Secret Ansem's Report 1",
     "type": "consumable",
     "codes": "i_0",
-    "img": "images/items/i_0.png",
+    "img": "images/kh2tracker/Old/ansem_report1.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -12,7 +12,7 @@
     "name": "Secret Ansem's Report 2",
     "type": "consumable",
     "codes": "i_1",
-    "img": "images/items/i_1.png",
+    "img": "images/kh2tracker/Old/ansem_report2.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -21,7 +21,7 @@
     "name": "Secret Ansem's Report 3",
     "type": "consumable",
     "codes": "i_2",
-    "img": "images/items/i_2.png",
+    "img": "images/kh2tracker/Old/ansem_report3.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -30,7 +30,7 @@
     "name": "Secret Ansem's Report 4",
     "type": "consumable",
     "codes": "i_3",
-    "img": "images/items/i_3.png",
+    "img": "images/kh2tracker/Old/ansem_report4.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -39,7 +39,7 @@
     "name": "Secret Ansem's Report 5",
     "type": "consumable",
     "codes": "i_4",
-    "img": "images/items/i_4.png",
+    "img": "images/kh2tracker/Old/ansem_report5.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -48,7 +48,7 @@
     "name": "Secret Ansem's Report 6",
     "type": "consumable",
     "codes": "i_5",
-    "img": "images/items/i_5.png",
+    "img": "images/kh2tracker/Old/ansem_report6.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -57,7 +57,7 @@
     "name": "Secret Ansem's Report 7",
     "type": "consumable",
     "codes": "i_6",
-    "img": "images/items/i_6.png",
+    "img": "images/kh2tracker/Old/ansem_report7.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -66,7 +66,7 @@
     "name": "Secret Ansem's Report 8",
     "type": "consumable",
     "codes": "i_7",
-    "img": "images/items/i_7.png",
+    "img": "images/kh2tracker/Old/ansem_report8.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -75,7 +75,7 @@
     "name": "Secret Ansem's Report 9",
     "type": "consumable",
     "codes": "i_8",
-    "img": "images/items/i_8.png",
+    "img": "images/kh2tracker/Old/ansem_report9.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -84,7 +84,7 @@
     "name": "Secret Ansem's Report 10",
     "type": "consumable",
     "codes": "i_9",
-    "img": "images/items/i_9.png",
+    "img": "images/kh2tracker/Old/ansem_report10.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -93,7 +93,7 @@
     "name": "Secret Ansem's Report 11",
     "type": "consumable",
     "codes": "i_10",
-    "img": "images/items/i_10.png",
+    "img": "images/kh2tracker/Old/ansem_report11.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -102,7 +102,7 @@
     "name": "Secret Ansem's Report 12",
     "type": "consumable",
     "codes": "i_11",
-    "img": "images/items/i_11.png",
+    "img": "images/kh2tracker/Old/ansem_report12.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -111,7 +111,7 @@
     "name": "Secret Ansem's Report 13",
     "type": "consumable",
     "codes": "i_12",
-    "img": "images/items/i_12.png",
+    "img": "images/kh2tracker/Old/ansem_report13.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -120,7 +120,7 @@
     "name": "Proof of Connection",
     "type": "consumable",
     "codes": "i_13",
-    "img": "images/items/i_13.png",
+    "img": "images/kh2tracker/Old/proof_of_connection.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -129,7 +129,7 @@
     "name": "Proof of Nonexistence",
     "type": "consumable",
     "codes": "i_14",
-    "img": "images/items/i_14.png",
+    "img": "images/kh2tracker/Old/proof_of_nonexistence.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -138,7 +138,7 @@
     "name": "Proof of Peace",
     "type": "consumable",
     "codes": "i_15",
-    "img": "images/items/i_15.png",
+    "img": "images/kh2tracker/Old/proof_of_peace.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -147,7 +147,7 @@
     "name": "Promise Charm",
     "type": "consumable",
     "codes": "i_16",
-    "img": "images/items/i_16.png",
+    "img": "images/kh2tracker/Old/promise_charm.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -273,7 +273,7 @@
     "name": "Torn Page",
     "type": "consumable",
     "codes": "i_30",
-    "img": "images/items/i_30.png",
+    "img": "images/kh2tracker/Old/torn_page.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -282,7 +282,7 @@
     "name": "Valor Form",
     "type": "consumable",
     "codes": "i_31",
-    "img": "images/items/i_31.png",
+    "img": "images/kh2tracker/Old/valor.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -291,7 +291,7 @@
     "name": "Wisdom Form",
     "type": "consumable",
     "codes": "i_32",
-    "img": "images/items/i_32.png",
+    "img": "images/kh2tracker/Old/wisdom.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -300,7 +300,7 @@
     "name": "Limit Form",
     "type": "consumable",
     "codes": "i_33",
-    "img": "images/items/i_33.png",
+    "img": "images/kh2tracker/Old/limit.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -309,7 +309,7 @@
     "name": "Master Form",
     "type": "consumable",
     "codes": "i_34",
-    "img": "images/items/i_34.png",
+    "img": "images/kh2tracker/Old/master.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -318,7 +318,7 @@
     "name": "Final Form",
     "type": "consumable",
     "codes": "i_35",
-    "img": "images/items/i_35.png",
+    "img": "images/kh2tracker/Old/final.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -336,7 +336,7 @@
     "name": "Fire Element",
     "type": "consumable",
     "codes": "i_37",
-    "img": "images/items/i_37.png",
+    "img": "images/kh2tracker/Old/fire.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -345,7 +345,7 @@
     "name": "Blizzard Element",
     "type": "consumable",
     "codes": "i_38",
-    "img": "images/items/i_38.png",
+    "img": "images/kh2tracker/Old/blizzard.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -354,7 +354,7 @@
     "name": "Thunder Element",
     "type": "consumable",
     "codes": "i_39",
-    "img": "images/items/i_39.png",
+    "img": "images/kh2tracker/Old/thunder.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -363,7 +363,7 @@
     "name": "Cure Element",
     "type": "consumable",
     "codes": "i_40",
-    "img": "images/items/i_40.png",
+    "img": "images/kh2tracker/Old/cure.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -372,7 +372,7 @@
     "name": "Magnet Element",
     "type": "consumable",
     "codes": "i_41",
-    "img": "images/items/i_41.png",
+    "img": "images/kh2tracker/Old/magnet.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -381,7 +381,7 @@
     "name": "Reflect Element",
     "type": "consumable",
     "codes": "i_42",
-    "img": "images/items/i_42.png",
+    "img": "images/kh2tracker/Old/reflect.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -390,7 +390,7 @@
     "name": "Genie",
     "type": "consumable",
     "codes": "i_43",
-    "img": "images/items/i_43.png",
+    "img": "images/kh2tracker/Old/genie.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -399,7 +399,7 @@
     "name": "Peter Pan",
     "type": "consumable",
     "codes": "i_44",
-    "img": "images/items/i_44.png",
+    "img": "images/kh2tracker/Old/peter_pan.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -408,7 +408,7 @@
     "name": "Stitch",
     "type": "consumable",
     "codes": "i_45",
-    "img": "images/items/i_45.png",
+    "img": "images/kh2tracker/Old/stitch.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -417,7 +417,7 @@
     "name": "Chicken Little",
     "type": "consumable",
     "codes": "i_46",
-    "img": "images/items/i_46.png",
+    "img": "images/kh2tracker/Old/chicken_little.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -732,7 +732,7 @@
     "name": "High Jump",
     "type": "consumable",
     "codes": "i_81",
-    "img": "images/items/i_81.png",
+    "img": "images/kh2tracker/GrowthAbilities/jump.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -741,7 +741,7 @@
     "name": "Quick Run",
     "type": "consumable",
     "codes": "i_82",
-    "img": "images/items/i_82.png",
+    "img": "images/kh2tracker/GrowthAbilities/quick.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -750,7 +750,7 @@
     "name": "Dodge Roll",
     "type": "consumable",
     "codes": "i_83",
-    "img": "images/items/i_83.png",
+    "img": "images/kh2tracker/GrowthAbilities/dodge.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -759,7 +759,7 @@
     "name": "Aerial Dodge",
     "type": "consumable",
     "codes": "i_84",
-    "img": "images/items/i_84.png",
+    "img": "images/kh2tracker/GrowthAbilities/aerial.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -768,7 +768,7 @@
     "name": "Glide",
     "type": "consumable",
     "codes": "i_85",
-    "img": "images/items/i_85.png",
+    "img": "images/kh2tracker/GrowthAbilities/glide.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1866,7 +1866,7 @@
     "name": "Once More",
     "type": "consumable",
     "codes": "i_207",
-    "img": "images/items/i_207.png",
+    "img": "images/kh2tracker/Simple/once_more.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0
@@ -1875,7 +1875,7 @@
     "name": "Second Chance",
     "type": "consumable",
     "codes": "i_208",
-    "img": "images/items/i_208.png",
+    "img": "images/kh2tracker/Simple/second_chance.png",
     "min_quantity": 0,
     "max_quantity": 0,
     "initial_quantity": 0

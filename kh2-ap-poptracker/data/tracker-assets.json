@@ -1,0 +1,207 @@
+{
+  "source": "https://github.com/Red-Buddha/KH2Tracker",
+  "commit": "2fa449fdd58b4c3a408484c6c33884cac443e992",
+  "credits": "README credits Televo for icons not taken directly from the game; per-file authorship is unspecified.",
+  "items": {
+    "Secret Ansem's Report 1": {
+      "img": "images/kh2tracker/Old/ansem_report1.png",
+      "source_path": "KhTracker/Images/Old/ansem_report1.png",
+      "sha256": "d9e2a463d0fae0916d7022aadda0a22c162e76b858cee2703c870a5e0b70eb52"
+    },
+    "Secret Ansem's Report 2": {
+      "img": "images/kh2tracker/Old/ansem_report2.png",
+      "source_path": "KhTracker/Images/Old/ansem_report2.png",
+      "sha256": "5f1aaef5e9666c0de0447726b70d109c30e3062ebd93e2a938528ebcfc5170ea"
+    },
+    "Secret Ansem's Report 3": {
+      "img": "images/kh2tracker/Old/ansem_report3.png",
+      "source_path": "KhTracker/Images/Old/ansem_report3.png",
+      "sha256": "cefcbe3b54e75669b5543ce4d1d7770cca9741b29e7eb76ea594c3e7a1a2b0a5"
+    },
+    "Secret Ansem's Report 4": {
+      "img": "images/kh2tracker/Old/ansem_report4.png",
+      "source_path": "KhTracker/Images/Old/ansem_report4.png",
+      "sha256": "02e21ddb685e2480bee59dcb40a8b8987e919f04b44325eadee93dab274b2c84"
+    },
+    "Secret Ansem's Report 5": {
+      "img": "images/kh2tracker/Old/ansem_report5.png",
+      "source_path": "KhTracker/Images/Old/ansem_report5.png",
+      "sha256": "9570a4773887f9597884da46353a51d2480bf14f85cc0187a7bf69021ca58823"
+    },
+    "Secret Ansem's Report 6": {
+      "img": "images/kh2tracker/Old/ansem_report6.png",
+      "source_path": "KhTracker/Images/Old/ansem_report6.png",
+      "sha256": "228a8f7d08c6d9cd4aa3c0629c7d4fbd4f64f7b6910ad642518aebb0410259f6"
+    },
+    "Secret Ansem's Report 7": {
+      "img": "images/kh2tracker/Old/ansem_report7.png",
+      "source_path": "KhTracker/Images/Old/ansem_report7.png",
+      "sha256": "589d2002eeac86f8ed1f6fa258f3d22cb0d5e662f8fb8709cccb44e5410d3ee8"
+    },
+    "Secret Ansem's Report 8": {
+      "img": "images/kh2tracker/Old/ansem_report8.png",
+      "source_path": "KhTracker/Images/Old/ansem_report8.png",
+      "sha256": "4ee85566177efffffd884d10b01de3754319bd2f95a6e450d4eae3dde79cb27d"
+    },
+    "Secret Ansem's Report 9": {
+      "img": "images/kh2tracker/Old/ansem_report9.png",
+      "source_path": "KhTracker/Images/Old/ansem_report9.png",
+      "sha256": "987618556adfbb8644a873e70039f6bf0e5c310663660caf50d10584e4345ed3"
+    },
+    "Secret Ansem's Report 10": {
+      "img": "images/kh2tracker/Old/ansem_report10.png",
+      "source_path": "KhTracker/Images/Old/ansem_report10.png",
+      "sha256": "c0be413148cce21a545051ea7aaefc980130c5f019ae54dcd332b4ddb93a0a63"
+    },
+    "Secret Ansem's Report 11": {
+      "img": "images/kh2tracker/Old/ansem_report11.png",
+      "source_path": "KhTracker/Images/Old/ansem_report11.png",
+      "sha256": "cd88458f2af57437a6c2e9c553fdc118d9313d141ae3f02741ee647613083547"
+    },
+    "Secret Ansem's Report 12": {
+      "img": "images/kh2tracker/Old/ansem_report12.png",
+      "source_path": "KhTracker/Images/Old/ansem_report12.png",
+      "sha256": "e37f59475e846ea29f0ab078a053d21540c9c66772f08dcce0426db6ae864372"
+    },
+    "Secret Ansem's Report 13": {
+      "img": "images/kh2tracker/Old/ansem_report13.png",
+      "source_path": "KhTracker/Images/Old/ansem_report13.png",
+      "sha256": "846432fff48161863cd34659a6d3635a932f5098c554d9c19ddb516873b95b54"
+    },
+    "Proof of Connection": {
+      "img": "images/kh2tracker/Old/proof_of_connection.png",
+      "source_path": "KhTracker/Images/Old/proof_of_connection.png",
+      "sha256": "46b2ab34ad68e3c2480e44c2ebcff867082c4057f110691f605325c9996f3544"
+    },
+    "Proof of Nonexistence": {
+      "img": "images/kh2tracker/Old/proof_of_nonexistence.png",
+      "source_path": "KhTracker/Images/Old/proof_of_nonexistence.png",
+      "sha256": "e4eff875772b641c18593725275065a9b0c269448ecc851ba3938feca8451e9b"
+    },
+    "Proof of Peace": {
+      "img": "images/kh2tracker/Old/proof_of_peace.png",
+      "source_path": "KhTracker/Images/Old/proof_of_peace.png",
+      "sha256": "11e4c75d2cfc4915620d1598643efe04bfbf1e2c32865aa6f0f9ea1cafe1b861"
+    },
+    "Promise Charm": {
+      "img": "images/kh2tracker/Old/promise_charm.png",
+      "source_path": "KhTracker/Images/Old/promise_charm.png",
+      "sha256": "b88a063e7ab9ac6458dbe3017d6dad9a62add0500fddf413fd00828cee31ce4f"
+    },
+    "Torn Page": {
+      "img": "images/kh2tracker/Old/torn_page.png",
+      "source_path": "KhTracker/Images/Old/torn_page.png",
+      "sha256": "6a486da849371d292b315b71d2c68168c4e3bb2091336424328e14d137366455"
+    },
+    "Valor Form": {
+      "img": "images/kh2tracker/Old/valor.png",
+      "source_path": "KhTracker/Images/Old/valor.png",
+      "sha256": "cec8f5e2df9c1edada182650a56a51609fa0f372a7ae0ac29238b0c0ff91a66d"
+    },
+    "Wisdom Form": {
+      "img": "images/kh2tracker/Old/wisdom.png",
+      "source_path": "KhTracker/Images/Old/wisdom.png",
+      "sha256": "3c3fc9ebae9f38b10a2eb1855a13c93190d8c119e6bda7aa9da9633c9be42110"
+    },
+    "Limit Form": {
+      "img": "images/kh2tracker/Old/limit.png",
+      "source_path": "KhTracker/Images/Old/limit.png",
+      "sha256": "4ba1b51f1747b01761a1191cfe7769093f069637312525cebb7b67378c50482f"
+    },
+    "Master Form": {
+      "img": "images/kh2tracker/Old/master.png",
+      "source_path": "KhTracker/Images/Old/master.png",
+      "sha256": "9e8aad6b4a04452490545babde388c793f262e437a964a1d15829a9a7fbc798e"
+    },
+    "Final Form": {
+      "img": "images/kh2tracker/Old/final.png",
+      "source_path": "KhTracker/Images/Old/final.png",
+      "sha256": "f19d264453cf7da05df30099440c13d4b30948946bc15ad72174c3a0296ba20b"
+    },
+    "Genie": {
+      "img": "images/kh2tracker/Old/genie.png",
+      "source_path": "KhTracker/Images/Old/genie.png",
+      "sha256": "a5a3bbbb04a32252733a168770f6fa722226a220dd3107184ecb3d9071a3d5cf"
+    },
+    "Peter Pan": {
+      "img": "images/kh2tracker/Old/peter_pan.png",
+      "source_path": "KhTracker/Images/Old/peter_pan.png",
+      "sha256": "aab637eb22449d838642555592f4853ccb2a3516ccc4398e0f78af89f9d1697b"
+    },
+    "Stitch": {
+      "img": "images/kh2tracker/Old/stitch.png",
+      "source_path": "KhTracker/Images/Old/stitch.png",
+      "sha256": "acf72c0bfe5d1147f9b6b065860f835668a3ac3bce761e16a447ad34656929a1"
+    },
+    "Chicken Little": {
+      "img": "images/kh2tracker/Old/chicken_little.png",
+      "source_path": "KhTracker/Images/Old/chicken_little.png",
+      "sha256": "ac376eff3531918032ab06164e426fb25f3bf2e59dd94e9f7b71c842101a82b5"
+    },
+    "Fire Element": {
+      "img": "images/kh2tracker/Old/fire.png",
+      "source_path": "KhTracker/Images/Old/fire.png",
+      "sha256": "a46b80a9bb99f5238e675077718d9b7f2b49dc95070bc3deaa8c3714b13ebda9"
+    },
+    "Blizzard Element": {
+      "img": "images/kh2tracker/Old/blizzard.png",
+      "source_path": "KhTracker/Images/Old/blizzard.png",
+      "sha256": "138e2aa5929d037169abef9985f03e2898ec9431ac1a38b5ef15febfd3679754"
+    },
+    "Thunder Element": {
+      "img": "images/kh2tracker/Old/thunder.png",
+      "source_path": "KhTracker/Images/Old/thunder.png",
+      "sha256": "fbc919086edc1c5d64f8efe1cb517d2122c42eb37793785c30d92981f8a9b58e"
+    },
+    "Cure Element": {
+      "img": "images/kh2tracker/Old/cure.png",
+      "source_path": "KhTracker/Images/Old/cure.png",
+      "sha256": "fb272371f4004caf52480d8c8c2a2cbee7ea1bcf01c6d92087aa523945776ca8"
+    },
+    "Magnet Element": {
+      "img": "images/kh2tracker/Old/magnet.png",
+      "source_path": "KhTracker/Images/Old/magnet.png",
+      "sha256": "f4e67ae1ae5d61539fb2b92b750576a1f604a68ce0c4f388728aa22159fc810e"
+    },
+    "Reflect Element": {
+      "img": "images/kh2tracker/Old/reflect.png",
+      "source_path": "KhTracker/Images/Old/reflect.png",
+      "sha256": "87f8eb05c2d11fcba22a7ecd040242f0c04e35bdc1b5397284a767ca68ac1858"
+    },
+    "High Jump": {
+      "img": "images/kh2tracker/GrowthAbilities/jump.png",
+      "source_path": "KhTracker/Images/GrowthAbilities/jump.png",
+      "sha256": "0c9d545a5fad95e7ae0afd20806df0669235eac335fa485640b04b309f958d20"
+    },
+    "Quick Run": {
+      "img": "images/kh2tracker/GrowthAbilities/quick.png",
+      "source_path": "KhTracker/Images/GrowthAbilities/quick.png",
+      "sha256": "91055c04b8ef7fb3a31565878f66356ed5be78d8b98d06b9d57250bdc63c11be"
+    },
+    "Aerial Dodge": {
+      "img": "images/kh2tracker/GrowthAbilities/aerial.png",
+      "source_path": "KhTracker/Images/GrowthAbilities/aerial.png",
+      "sha256": "9e29c96196a2aaca5fe9788b45f1eac60a98e1dd68819d3ba049d10d57176cbb"
+    },
+    "Glide": {
+      "img": "images/kh2tracker/GrowthAbilities/glide.png",
+      "source_path": "KhTracker/Images/GrowthAbilities/glide.png",
+      "sha256": "33e3298a23b469f8618a58f213b27ee480c478b9df7fea2ecc50aef57af559b1"
+    },
+    "Dodge Roll": {
+      "img": "images/kh2tracker/GrowthAbilities/dodge.png",
+      "source_path": "KhTracker/Images/GrowthAbilities/dodge.png",
+      "sha256": "9b8746f14ec330ba053ba92690d33c9c2f805442addd9357639d6977cecb73a6"
+    },
+    "Once More": {
+      "img": "images/kh2tracker/Simple/once_more.png",
+      "source_path": "KhTracker/Images/Simple/once_more.png",
+      "sha256": "10da0c31e5f75d56a9c0a69bb700f2abe9d49d60a2a6ce5eec12832173087d45"
+    },
+    "Second Chance": {
+      "img": "images/kh2tracker/Simple/second_chance.png",
+      "source_path": "KhTracker/Images/Simple/second_chance.png",
+      "sha256": "59133e5066e214e36d5b679129ceb884f810d03a5b5282966f5f7107439e3be8"
+    }
+  }
+}

@@ -1,4 +1,4 @@
-# Kingdom Hearts II – Archipelago Check Atlas v0.1.0
+# Kingdom Hearts II – Archipelago Check Atlas v0.1.1
 
 PopTracker-Pack für **Kingdom Hearts 2 / KH2 Final Mix**, passend zu der auf
 ap.dsatool.org dokumentierten **Archipelago Core 0.6.7 / World 2.0.0**.
@@ -16,7 +16,8 @@ ap.dsatool.org dokumentierten **Archipelago Core 0.6.7 / World 2.0.0**.
 
 ## Enthalten
 
-- 293 AP-Itemtypen mit eigenen PNG-Symbolen und unbegrenzten Zählern.
+- 293 AP-Itemtypen mit unbegrenzten Zählern: 40 passende Icons aus KH2Tracker
+  und 253 eigene Platzhalter (siehe MISSING-ASSETS.md).
 - Alle 724 adressierbaren AP-Locations der gepinnten World.
 - 102 Bereiche aus den ursprünglichen AP-Regionsdaten, ergänzt um nicht dort
   zugeordnete adressierbare Checks.
@@ -38,7 +39,11 @@ welche Checks angezeigt werden. Offline ist der vollständige Katalog sichtbar.
 
 Die Karten sind **schematische Bereichsübersichten**, keine maßstabsgetreuen
 Raumpläne. Die Symbole sind eigene Kategorie-Icons mit Namenskürzeln;
-Original-Spielgrafiken und Screenshots sind nicht enthalten.
+40 Item-Icons wurden unverändert aus Red-Buddha/KH2Tracker übernommen.
+Das Quellprojekt nennt Spielgrafiken und Televo als Herkunft seiner Icons;
+die Urheberschaft einzelner Dateien ist dort nicht gesondert dokumentiert.
+Die vollständige Fehlendenliste steht in MISSING-ASSETS.md; die Zuordnung samt
+Quellcommit und SHA-256 in data/tracker-assets.json.
 
 ## Quellen und Rechte
 
@@ -53,6 +58,9 @@ Die AP-IDs stammen ausdrücklich aus der Dictionary-Reihenfolge der World und
 sind keine Spielspeicheradressen. `data/source-lock.json` enthält SHA-256-Werte
 der verwendeten Quelldateien. Andere World-Versionen müssen separat geprüft werden.
 Eigener Lua-Code, Generator und eigene Grafiken: MIT; siehe LICENSE.txt.
+Übernommene KH2Tracker-Icons: beiliegende LICENSE-KH2Tracker.txt und die
+Quellhinweise in data/tracker-assets.json. Diese Herkunftsangaben sind keine
+separate Freigabe der ursprünglichen Spielgrafiken durch Square Enix/Disney.
 
 ## Validierung
 
