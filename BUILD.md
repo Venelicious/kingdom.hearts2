@@ -23,6 +23,7 @@ Originale Itembilder erneut aus einer vorhandenen OpenKH-Extraktion exportieren:
 
 ```powershell
 python tools/import_game_assets.py C:\Archipelago\openkh
+python tools/import_menu_icons.py C:\Archipelago\openkh
 python tools/build_pack.py
 python tools/validate_pack.py
 python tools/package_pack.py
@@ -31,3 +32,6 @@ python tools/package_pack.py
 Der Import liest `data/kh2/03system.bin` und `data/kh2/itempic` und verwendet das
 vorhandene `Apps/OpenKh.Command.ImgTool.exe`. Es werden nur ausgewählte Itembilder
 exportiert. Die Quelldateien der Installation werden nicht verändert.
+Der Menü-Import liest msg/us/fontimage.bar direkt und dekodiert das 256×160-
+Icon-Atlas nach OpenKH: 8-Bit-Palette, PS2-CLUT und Alpha, 24×24-Icons mit
+zehn Spalten. Die Zuordnung trennt individuelle Bilder und gemeinsame Symbole.

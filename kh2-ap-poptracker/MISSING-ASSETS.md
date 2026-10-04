@@ -1,7 +1,8 @@
-# Fehlende Item-Assets
+# Fehlende individuelle Item-Assets
 
 176 von 293 Itemtypen besitzen ein zugeordnetes Icon: 40 aus Red-Buddha/KH2Tracker, 136 zusätzlich aus der lokalen KH2-Extraktion.
-117 Itemtypen besitzen keine passende individuelle Grafik und verwenden weiterhin eigene Platzhalter.
+115 weitere Itemtypen verwenden originale, gemeinsam genutzte KH2-Menü-/Kategorie-Icons. 2 verwenden weiterhin eigene Platzhalter.
+117 Itemtypen besitzen keine individuelle Grafik; sie sind unten vollständig aufgeführt. Kategorie-Symbole werden separat gekennzeichnet.
 
 Es wurden nur inhaltlich passende Icons zugeordnet. Welt-, Boss- und generische Kategorie-Icons zählen nicht als eigene Itemgrafik.
 
@@ -9,144 +10,144 @@ Die verbliebenen Fähigkeiten besitzen keine eigene Item-Bildzuordnung. Anti For
 
 ## Progression (1)
 
-- Disney Castle Key
+- Disney Castle Key — Kategorie: Document / Key item (Icon 2)
 
 ## Forms (1)
 
-- Anti Form
+- Anti Form — Kategorie: Form (Icon 25)
 
 ## Keyblade (1)
 
-- Pureblood
+- Pureblood — Kategorie: Keyblade (Icon 4)
 
 ## Usefull (7)
 
-- Unknown Disk
-- Max HP Up
-- Max MP Up
-- Drive Gauge Up
-- Armor Slot Up
-- Accessory Slot Up
-- Item Slot Up
+- Unknown Disk — Kategorie: Document / Key item (Icon 2)
+- Max HP Up — Platzhalter
+- Max MP Up — Platzhalter
+- Drive Gauge Up — Kategorie: Form (Icon 25)
+- Armor Slot Up — Kategorie: Armor (Icon 7)
+- Accessory Slot Up — Kategorie: Accessory (Icon 17)
+- Item Slot Up — Kategorie: Consumable (Equippable) (Icon 0)
 
 ## SupportAbility (35)
 
-- Scan
-- Aerial Recovery
-- Combo Master
-- Combo Plus
-- Air Combo Plus
-- Combo Boost
-- Air Combo Boost
-- Reaction Boost
-- Finishing Plus
-- Negative Combo
-- Berserk Charge
-- Damage Drive
-- Drive Boost
-- Form Boost
-- Summon Boost
-- Experience Boost
-- Draw
-- Jackpot
-- Lucky Lucky
-- Drive Converter
-- Fire Boost
-- Blizzard Boost
-- Thunder Boost
-- Item Boost
-- MP Rage
-- MP Haste
-- MP Hastera
-- MP Hastega
-- Defender
-- Damage Control
-- No Experience
-- Light & Darkness
-- Magic Lock-On
-- Leaf Bracer
-- Combination Boost
+- Scan — Kategorie: Ability (Icon 3)
+- Aerial Recovery — Kategorie: Ability (Icon 3)
+- Combo Master — Kategorie: Ability (Icon 3)
+- Combo Plus — Kategorie: Ability (Icon 3)
+- Air Combo Plus — Kategorie: Ability (Icon 3)
+- Combo Boost — Kategorie: Ability (Icon 3)
+- Air Combo Boost — Kategorie: Ability (Icon 3)
+- Reaction Boost — Kategorie: Ability (Icon 3)
+- Finishing Plus — Kategorie: Ability (Icon 3)
+- Negative Combo — Kategorie: Ability (Icon 3)
+- Berserk Charge — Kategorie: Ability (Icon 3)
+- Damage Drive — Kategorie: Ability (Icon 3)
+- Drive Boost — Kategorie: Ability (Icon 3)
+- Form Boost — Kategorie: Ability (Icon 3)
+- Summon Boost — Kategorie: Ability (Icon 3)
+- Experience Boost — Kategorie: Ability (Icon 3)
+- Draw — Kategorie: Ability (Icon 3)
+- Jackpot — Kategorie: Ability (Icon 3)
+- Lucky Lucky — Kategorie: Ability (Icon 3)
+- Drive Converter — Kategorie: Ability (Icon 3)
+- Fire Boost — Kategorie: Ability (Icon 3)
+- Blizzard Boost — Kategorie: Ability (Icon 3)
+- Thunder Boost — Kategorie: Ability (Icon 3)
+- Item Boost — Kategorie: Ability (Icon 3)
+- MP Rage — Kategorie: Ability (Icon 3)
+- MP Haste — Kategorie: Ability (Icon 3)
+- MP Hastera — Kategorie: Ability (Icon 3)
+- MP Hastega — Kategorie: Ability (Icon 3)
+- Defender — Kategorie: Ability (Icon 3)
+- Damage Control — Kategorie: Ability (Icon 3)
+- No Experience — Kategorie: Ability (Icon 3)
+- Light & Darkness — Kategorie: Ability (Icon 3)
+- Magic Lock-On — Kategorie: Ability (Icon 3)
+- Leaf Bracer — Kategorie: Ability (Icon 3)
+- Combination Boost — Kategorie: Ability (Icon 3)
 
 ## ActionAbility (25)
 
-- Guard
-- Upper Slash
-- Horizontal Slash
-- Finishing Leap
-- Retaliating Slash
-- Slapshot
-- Dodge Slash
-- Flash Step
-- Slide Dash
-- Vicinity Break
-- Guard Break
-- Explosion
-- Aerial Sweep
-- Aerial Dive
-- Aerial Spiral
-- Aerial Finish
-- Magnet Burst
-- Counterguard
-- Auto Valor
-- Auto Wisdom
-- Auto Limit
-- Auto Master
-- Auto Final
-- Auto Summon
-- Trinity Limit
+- Guard — Kategorie: Ability (Icon 3)
+- Upper Slash — Kategorie: Ability (Icon 3)
+- Horizontal Slash — Kategorie: Ability (Icon 3)
+- Finishing Leap — Kategorie: Ability (Icon 3)
+- Retaliating Slash — Kategorie: Ability (Icon 3)
+- Slapshot — Kategorie: Ability (Icon 3)
+- Dodge Slash — Kategorie: Ability (Icon 3)
+- Flash Step — Kategorie: Ability (Icon 3)
+- Slide Dash — Kategorie: Ability (Icon 3)
+- Vicinity Break — Kategorie: Ability (Icon 3)
+- Guard Break — Kategorie: Ability (Icon 3)
+- Explosion — Kategorie: Ability (Icon 3)
+- Aerial Sweep — Kategorie: Ability (Icon 3)
+- Aerial Dive — Kategorie: Ability (Icon 3)
+- Aerial Spiral — Kategorie: Ability (Icon 3)
+- Aerial Finish — Kategorie: Ability (Icon 3)
+- Magnet Burst — Kategorie: Ability (Icon 3)
+- Counterguard — Kategorie: Ability (Icon 3)
+- Auto Valor — Kategorie: Ability (Icon 3)
+- Auto Wisdom — Kategorie: Ability (Icon 3)
+- Auto Limit — Kategorie: Ability (Icon 3)
+- Auto Master — Kategorie: Ability (Icon 3)
+- Auto Final — Kategorie: Ability (Icon 3)
+- Auto Summon — Kategorie: Ability (Icon 3)
+- Trinity Limit — Kategorie: Ability (Icon 3)
 
 ## Wincon (2)
 
-- Lucky Emblem
-- Bounty
+- Lucky Emblem — Kategorie: Document / Key item (Icon 2)
+- Bounty — Kategorie: Document / Key item (Icon 2)
 
 ## DonaldAbility (21)
 
-- Donald Fire
-- Donald Blizzard
-- Donald Thunder
-- Donald Cure
-- Donald Fantasia
-- Donald Flare Force
-- Donald MP Rage
-- Donald Jackpot
-- Donald Lucky Lucky
-- Donald Fire Boost
-- Donald Blizzard Boost
-- Donald Thunder Boost
-- Donald MP Haste
-- Donald MP Hastera
-- Donald MP Hastega
-- Donald Auto Limit
-- Donald Hyper Healing
-- Donald Auto Healing
-- Donald Item Boost
-- Donald Damage Control
-- Donald Draw
+- Donald Fire — Kategorie: Ability (Icon 3)
+- Donald Blizzard — Kategorie: Ability (Icon 3)
+- Donald Thunder — Kategorie: Ability (Icon 3)
+- Donald Cure — Kategorie: Ability (Icon 3)
+- Donald Fantasia — Kategorie: Ability (Icon 3)
+- Donald Flare Force — Kategorie: Ability (Icon 3)
+- Donald MP Rage — Kategorie: Ability (Icon 3)
+- Donald Jackpot — Kategorie: Ability (Icon 3)
+- Donald Lucky Lucky — Kategorie: Ability (Icon 3)
+- Donald Fire Boost — Kategorie: Ability (Icon 3)
+- Donald Blizzard Boost — Kategorie: Ability (Icon 3)
+- Donald Thunder Boost — Kategorie: Ability (Icon 3)
+- Donald MP Haste — Kategorie: Ability (Icon 3)
+- Donald MP Hastera — Kategorie: Ability (Icon 3)
+- Donald MP Hastega — Kategorie: Ability (Icon 3)
+- Donald Auto Limit — Kategorie: Ability (Icon 3)
+- Donald Hyper Healing — Kategorie: Ability (Icon 3)
+- Donald Auto Healing — Kategorie: Ability (Icon 3)
+- Donald Item Boost — Kategorie: Ability (Icon 3)
+- Donald Damage Control — Kategorie: Ability (Icon 3)
+- Donald Draw — Kategorie: Ability (Icon 3)
 
 ## GoofyAbility (24)
 
-- Goofy Tornado
-- Goofy Turbo
-- Goofy Bash
-- Tornado Fusion
-- Teamwork
-- Goofy Draw
-- Goofy Jackpot
-- Goofy Lucky Lucky
-- Goofy Item Boost
-- Goofy MP Rage
-- Goofy Defender
-- Goofy Damage Control
-- Goofy Auto Limit
-- Goofy Second Chance
-- Goofy Once More
-- Goofy Auto Change
-- Goofy Hyper Healing
-- Goofy Auto Healing
-- Goofy MP Haste
-- Goofy MP Hastera
-- Goofy MP Hastega
-- Goofy Protect
-- Goofy Protera
-- Goofy Protega
+- Goofy Tornado — Kategorie: Ability (Icon 3)
+- Goofy Turbo — Kategorie: Ability (Icon 3)
+- Goofy Bash — Kategorie: Ability (Icon 3)
+- Tornado Fusion — Kategorie: Ability (Icon 3)
+- Teamwork — Kategorie: Ability (Icon 3)
+- Goofy Draw — Kategorie: Ability (Icon 3)
+- Goofy Jackpot — Kategorie: Ability (Icon 3)
+- Goofy Lucky Lucky — Kategorie: Ability (Icon 3)
+- Goofy Item Boost — Kategorie: Ability (Icon 3)
+- Goofy MP Rage — Kategorie: Ability (Icon 3)
+- Goofy Defender — Kategorie: Ability (Icon 3)
+- Goofy Damage Control — Kategorie: Ability (Icon 3)
+- Goofy Auto Limit — Kategorie: Ability (Icon 3)
+- Goofy Second Chance — Kategorie: Ability (Icon 3)
+- Goofy Once More — Kategorie: Ability (Icon 3)
+- Goofy Auto Change — Kategorie: Ability (Icon 3)
+- Goofy Hyper Healing — Kategorie: Ability (Icon 3)
+- Goofy Auto Healing — Kategorie: Ability (Icon 3)
+- Goofy MP Haste — Kategorie: Ability (Icon 3)
+- Goofy MP Hastera — Kategorie: Ability (Icon 3)
+- Goofy MP Hastega — Kategorie: Ability (Icon 3)
+- Goofy Protect — Kategorie: Ability (Icon 3)
+- Goofy Protera — Kategorie: Ability (Icon 3)
+- Goofy Protega — Kategorie: Ability (Icon 3)

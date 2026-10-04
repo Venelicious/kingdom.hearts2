@@ -20,7 +20,10 @@ catalog=json.loads((PACK/'data/catalog.json').read_text(encoding='utf-8'))
 assets=json.loads((PACK/'data/tracker-assets.json').read_text(encoding='utf-8')) if (PACK/'data/tracker-assets.json').exists() else {'items':{}}
 game_assets=json.loads((PACK/'data/game-assets.json').read_text(encoding='utf-8')) if (PACK/'data/game-assets.json').exists() else {'items':{}}
 combined_assets={**assets['items'],**game_assets['items']}
-for name,record in combined_assets.items():
+menu_assets=json.loads((PACK/'data/menu-assets.json').read_text(encoding='utf-8')) if (PACK/'data/menu-assets.json').exists() else {'items':{}}
+display_assets={**menu_assets['items'],**combined_assets}
+assert not set(menu_assets['items'])&set(combined_assets)
+for name,record in display_assets.items():
     assert hashlib.sha256((PACK/record['img']).read_bytes()).hexdigest()==record['sha256']
     assert next(item for item in items if item['name']==name)['img']==record['img']
 missing=json.loads((PACK/'data/missing-item-assets.json').read_text(encoding='utf-8'))
@@ -34,6 +37,19 @@ if game_assets['items']:
     for name,game_id in {'Potion':1,'Hi-Potion':2,'Ether':3,'Power Boost':276,'Magic Boost':277,'Defense Boost':278,'AP Boost':279}.items():
         assert game_assets['items'][name]['game_item_id']==game_id
 print(f"Assets OK: {len(combined_assets)} mapped icons, {len(missing)} explicit missing entries; original-ID overrides and alpha checked")
+if menu_assets['items']:
+    assert len(menu_assets['items'])==115
+    assert set(catalog['items'])-set(display_assets)=={'Max HP Up','Max MP Up'}
+    for name,record in menu_assets['items'].items():
+        assert record['kind']=='shared_category'
+        with Image.open(PACK/record['img']) as im:
+            assert im.size==(24,24) and im.mode=='RGBA' and im.getchannel('A').getbbox() is not None
+    assert menu_assets['items']['Scan']['icon_id']==3
+    assert menu_assets['items']['Anti Form']['icon_id']==25
+    assert menu_assets['items']['Pureblood']['icon_id']==4
+    assert menu_assets['items']['Armor Slot Up']['icon_id']==7
+    assert menu_assets['items']['Accessory Slot Up']['icon_id']==17
+    print('Menu icons OK: 7 original 24x24 symbols, 115 category fallbacks, 2 placeholders; individual images preserved')
 for obj in items+maps:
     with Image.open(PACK/obj['img']) as im: im.verify()
 dimensions={m['name']:Image.open(PACK/m['img']).size for m in maps}

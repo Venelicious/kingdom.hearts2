@@ -1,0 +1,1011 @@
+{
+  "source_path": "msg/us/fontimage.bar",
+  "source_sha256": "6a1cf0d2ddca0f8e9bbc80325d59b5e175a21e5dcb85021f85b2b9fdf91226d3",
+  "dictionary": "https://openkh.dev/kh2/dictionary/icons.html",
+  "format_reference": "OpenKH FontContext (256x160 Indexed8), RawBitmap (PS2 CLUT/alpha), Constants (24x24), Kh2MessageRenderer (10 icons per row)",
+  "icons": {
+    "0": {
+      "img": "images/kh2menu/icon-00.png",
+      "label": "Consumable (Equippable)",
+      "crop": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "sha256": "4aef3b1852dcd637baf97924a4dd04a896d13ed34f013d3e24b7c95d5e291552"
+    },
+    "2": {
+      "img": "images/kh2menu/icon-02.png",
+      "label": "Document / Key item",
+      "crop": [
+        48,
+        0,
+        24,
+        24
+      ],
+      "sha256": "96aeecb5be4e08f0decd1bc3376be55c5ce5c5cee2d8303c0e46b8c7726b950d"
+    },
+    "3": {
+      "img": "images/kh2menu/icon-03.png",
+      "label": "Ability",
+      "crop": [
+        72,
+        0,
+        24,
+        24
+      ],
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5"
+    },
+    "4": {
+      "img": "images/kh2menu/icon-04.png",
+      "label": "Keyblade",
+      "crop": [
+        96,
+        0,
+        24,
+        24
+      ],
+      "sha256": "1410ad19e464ae620ccce06ace1463455f22854b23641b55cd76d9d9b2670458"
+    },
+    "7": {
+      "img": "images/kh2menu/icon-07.png",
+      "label": "Armor",
+      "crop": [
+        168,
+        0,
+        24,
+        24
+      ],
+      "sha256": "a1d2f23b5cee7fd94407e93c66fd62d1b8bb90559c3c1e6972a6cd493f750f51"
+    },
+    "17": {
+      "img": "images/kh2menu/icon-17.png",
+      "label": "Accessory",
+      "crop": [
+        168,
+        24,
+        24,
+        24
+      ],
+      "sha256": "29ad660c6e737fe3f0fe688e25adf1be7527a32be4d529c0310829099f6820c6"
+    },
+    "25": {
+      "img": "images/kh2menu/icon-25.png",
+      "label": "Form",
+      "crop": [
+        120,
+        48,
+        24,
+        24
+      ],
+      "sha256": "b2c4ccc3e1fd43dd88c618d417fc31a8aab0fd36759db989cdad0d65390152e9"
+    }
+  },
+  "items": {
+    "Disney Castle Key": {
+      "icon_id": 2,
+      "category": "Document / Key item",
+      "img": "images/kh2menu/icon-02.png",
+      "sha256": "96aeecb5be4e08f0decd1bc3376be55c5ce5c5cee2d8303c0e46b8c7726b950d",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Anti Form": {
+      "icon_id": 25,
+      "category": "Form",
+      "img": "images/kh2menu/icon-25.png",
+      "sha256": "b2c4ccc3e1fd43dd88c618d417fc31a8aab0fd36759db989cdad0d65390152e9",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Pureblood": {
+      "icon_id": 4,
+      "category": "Keyblade",
+      "img": "images/kh2menu/icon-04.png",
+      "sha256": "1410ad19e464ae620ccce06ace1463455f22854b23641b55cd76d9d9b2670458",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Unknown Disk": {
+      "icon_id": 2,
+      "category": "Document / Key item",
+      "img": "images/kh2menu/icon-02.png",
+      "sha256": "96aeecb5be4e08f0decd1bc3376be55c5ce5c5cee2d8303c0e46b8c7726b950d",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Drive Gauge Up": {
+      "icon_id": 25,
+      "category": "Form",
+      "img": "images/kh2menu/icon-25.png",
+      "sha256": "b2c4ccc3e1fd43dd88c618d417fc31a8aab0fd36759db989cdad0d65390152e9",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Armor Slot Up": {
+      "icon_id": 7,
+      "category": "Armor",
+      "img": "images/kh2menu/icon-07.png",
+      "sha256": "a1d2f23b5cee7fd94407e93c66fd62d1b8bb90559c3c1e6972a6cd493f750f51",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Accessory Slot Up": {
+      "icon_id": 17,
+      "category": "Accessory",
+      "img": "images/kh2menu/icon-17.png",
+      "sha256": "29ad660c6e737fe3f0fe688e25adf1be7527a32be4d529c0310829099f6820c6",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Item Slot Up": {
+      "icon_id": 0,
+      "category": "Consumable (Equippable)",
+      "img": "images/kh2menu/icon-00.png",
+      "sha256": "4aef3b1852dcd637baf97924a4dd04a896d13ed34f013d3e24b7c95d5e291552",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Scan": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Aerial Recovery": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Combo Master": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Combo Plus": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Air Combo Plus": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Combo Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Air Combo Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Reaction Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Finishing Plus": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Negative Combo": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Berserk Charge": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Damage Drive": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Drive Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Form Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Summon Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Experience Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Draw": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Jackpot": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Lucky Lucky": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Drive Converter": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Fire Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Blizzard Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Thunder Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Item Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "MP Rage": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "MP Haste": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "MP Hastera": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "MP Hastega": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Defender": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Damage Control": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "No Experience": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Light & Darkness": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Magic Lock-On": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Leaf Bracer": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Combination Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Guard": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Upper Slash": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Horizontal Slash": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Finishing Leap": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Retaliating Slash": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Slapshot": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Dodge Slash": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Flash Step": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Slide Dash": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Vicinity Break": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Guard Break": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Explosion": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Aerial Sweep": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Aerial Dive": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Aerial Spiral": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Aerial Finish": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Magnet Burst": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Counterguard": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Auto Valor": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Auto Wisdom": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Auto Limit": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Auto Master": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Auto Final": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Auto Summon": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Trinity Limit": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Lucky Emblem": {
+      "icon_id": 2,
+      "category": "Document / Key item",
+      "img": "images/kh2menu/icon-02.png",
+      "sha256": "96aeecb5be4e08f0decd1bc3376be55c5ce5c5cee2d8303c0e46b8c7726b950d",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Bounty": {
+      "icon_id": 2,
+      "category": "Document / Key item",
+      "img": "images/kh2menu/icon-02.png",
+      "sha256": "96aeecb5be4e08f0decd1bc3376be55c5ce5c5cee2d8303c0e46b8c7726b950d",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Fire": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Blizzard": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Thunder": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Cure": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Fantasia": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Flare Force": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald MP Rage": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Jackpot": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Lucky Lucky": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Fire Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Blizzard Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Thunder Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald MP Haste": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald MP Hastera": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald MP Hastega": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Auto Limit": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Hyper Healing": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Auto Healing": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Item Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Damage Control": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Donald Draw": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Tornado": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Turbo": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Bash": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Tornado Fusion": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Teamwork": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Draw": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Jackpot": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Lucky Lucky": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Item Boost": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy MP Rage": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Defender": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Damage Control": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Auto Limit": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Second Chance": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Once More": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Auto Change": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Hyper Healing": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Auto Healing": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy MP Haste": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy MP Hastera": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy MP Hastega": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Protect": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Protera": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    },
+    "Goofy Protega": {
+      "icon_id": 3,
+      "category": "Ability",
+      "img": "images/kh2menu/icon-03.png",
+      "sha256": "e0e7edd9038c8e078740a3a0660b62c6c4459765dafc3b2a2ef9612d2a2e74d5",
+      "kind": "shared_category",
+      "reason": "Original KH2 menu symbol used as category fallback; not an individual picture for this reward"
+    }
+  },
+  "unmapped": [
+    "Max HP Up",
+    "Max MP Up"
+  ]
+}
